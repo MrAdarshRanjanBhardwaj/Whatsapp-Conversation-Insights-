@@ -1,0 +1,1764 @@
+7/12/22, 17:32 - +91 99536 97085 created group "5CSE1-Eve Unofficial 🎓"
+7/12/22, 17:32 - You were added
+11/11/22, 10:11 - Sam Jain: Koi h jo meri fbl class le lega aaj 🥹
+11/11/22, 18:12 - Yash Deo: Tomorrow is working and time table of Friday will be followed
+11/11/22, 18:12 - Yash Deo: 💀
+11/11/22, 18:12 - Sam Jain: Fbl bhi lagwa dete 🥹
+11/11/22, 18:34 - Arunya Goojar: <Media omitted>
+11/11/22, 18:39 - Muskan ( CR ): This message was deleted
+11/11/22, 18:42 - Ishan Vijay: ARA Viva toh Tuesday ko hi hoga as you text earlier
+11/11/22, 18:42 - Ishan Vijay: ?
+11/11/22, 18:43 - Muskan ( CR ): Yes as said by ARA faculty
+11/11/22, 18:43 - Ishan Vijay: 👍
+11/11/22, 18:44 - Sahil Chauhan: Kal ske ki bhi class hogi?
+11/11/22, 23:34 - Your security code with Dhruv changed. Tap to learn more.
+11/12/22, 08:55 - Muskan ( CR ): *All* classes will be held today as scheduled on amizone
+11/12/22, 08:55 - Muskan ( CR ): BS  also
+11/12/22, 09:39 - Sahil Chauhan: This message was deleted
+11/12/22, 09:40 - Sahil Chauhan: This message was deleted
+11/13/22, 09:09 - Your security code with +91 96508 83738 changed. Tap to learn more.
+11/13/22, 12:57 - Prateek: Odd Enrollment Number
+
+    1. Develop a Hamiltonian Path in an undirected graph is a path that visits each vertex e xactly once. A Hamiltonian cycle (or Hamiltonian circuit) is a Hamiltonian Path such that there is an edge (in graph) from the last vertex to the first vertex of the Hamiltonian Path. Develop a program to implement the solution of Travelling Salesman Problem by considering the Hamiltonian cycle approach.
+    2. A road network can be considered as a graph with positive weights. The nodes represent road junctions and each edge of the graph is associated with a road segment between two junctions. The weight of an edge may correspond to the length of the associated road segment, the time needed to traverse the segment or the cost of traversing the segment. Using directed edges it is also possible to model one-way streets. Such graphs are special in the sense that some edges are more important than others for long distance travel (e.g. highways). This property has been formalized using the notion of highway dimension. There are a great number of algorithms that exploit this property and are therefore able to compute the shortest path a lot quicker than would be possible on general graphs. Develop a program to find the shortest path from each node to solve the road network problem.
+11/13/22, 12:57 - Prateek: Kisi ne ye ADA Open ended kra h ya mil skta h?
+11/13/22, 12:59 - Ishan Vijay: From where you get this message?🙄
+11/13/22, 13:00 - Prateek: Morning batch
+11/13/22, 13:00 - Ishan Vijay: Ok
+11/13/22, 13:00 - Prateek: Mil skta h?
+11/13/22, 13:01 - Ishan Vijay: This message was deleted
+11/13/22, 13:02 - Ishan Vijay: We can do any 2 programs out of 6 with our own choice.
+11/13/22, 13:03 - Ishan Vijay: There is no any kind of restriction such as enrollment number or anything else
+11/13/22, 13:03 - Prateek: 2 hi toh hain
+11/13/22, 13:04 - Prateek: arre bhai ye mere friend ko mila h
+11/13/22, 13:04 - Prateek: uske lia pucha h mene
+11/13/22, 13:04 - Prateek: use mil nhi rhe isliye
+11/13/22, 13:05 - Prateek: hon toh bhej do
+11/13/22, 13:05 - Ishan Vijay: .
+11/13/22, 17:22 - Arunya Goojar: anyone has the list of experiments for ada and dbms ?
+11/13/22, 17:48 - Arunya Goojar: NVM mil gaya 👍
+11/13/22, 20:15 - Sahil Chauhan: Kisi ne networking ka assignment kiya? Ya start kiya?
+11/13/22, 20:35 - Sam Jain: Socha bhi nhi bhai abhi tk 🥲
+11/13/22, 20:35 - KARANVEER SINGH: <Media omitted>
+11/13/22, 20:35 - Sam Jain: <Media omitted>
+11/13/22, 20:36 - Sam Jain: Networking ki lab file bna li kisi ne?
+11/13/22, 20:42 - Yash Deo: meine soch liya par uske aagey kuch nhi kiya bro  🥲
+11/13/22, 20:43 - Sam Jain: Sad truth 🥹
+11/13/22, 21:20 - Ishan Vijay: This message was deleted
+11/14/22, 10:59 - +91 99717 98105: what about minors?
+11/14/22, 11:05 - KARANVEER SINGH: Tuesday ko dbms
+Thursday ko networking
+11/14/22, 11:05 - +91 99717 98105: okh bruh
+11/15/22, 09:32 - Ishan Vijay: Practical viva will be in the next lab. all have to present otherwise will get zero marks.
+11/15/22, 09:32 - Ishan Vijay: By PL
+11/15/22, 09:43 - Parth Verma: Konse subject ka practical hai?
+11/15/22, 17:27 - Your security code with VASU LAKHANI changed. Tap to learn more.
+11/17/22, 00:04 - Arunya Goojar: <Media omitted>
+11/17/22, 00:05 - Sam Jain: I think it's just extra class and we'll get attendance for it
+11/17/22, 00:05 - Kamran Khan: Kon jaiga bhai itni subha😂
+11/17/22, 00:05 - Arunya Goojar: Hm
+11/17/22, 00:06 - Arunya Goojar: Me toh is class k baad uthta hu 😂
+11/17/22, 00:06 - Sam Jain: +1
+11/17/22, 15:17 - +91 99717 98105: minor
+11/17/22, 15:17 - +91 99717 98105: kbse h
+11/17/22, 15:17 - +91 99717 98105: ?
+11/17/22, 15:18 - Prateek: This message was deleted
+11/17/22, 16:05 - +91 95405 76127: 19 ko hai
+11/17/22, 16:15 - +91 99717 98105: <Media omitted>
+11/17/22, 16:16 - +91 98999 65265: This message was deleted
+11/17/22, 16:23 - Prateek: https://www.techtarget.com/searchnetworking/definition/Gigabit-Ethernet
+11/17/22, 16:23 - Prateek: 4th
+11/17/22, 16:29 - Prateek: <Media omitted>
+11/17/22, 16:29 - Prateek: https://www.google.com/amp/s/www.techtarget.com/searchnetworking/definition/CIDR%3famp=1
+11/17/22, 16:33 - Prateek: Jo word dikh rahe unke hisaab se bheja h baaki dekh lena
+11/17/22, 17:16 - Sam Jain: Konse projects 🙂
+11/17/22, 17:25 - Rehan Khan (CR): bhai ntcc me kuch kara ho accha and khud to wahi batado
+11/17/22, 17:36 - Sam Jain: Bs report khud se bnai h jo guide ne approve krdi thi lekin jo viva lera tha usne bezzati krdi thi 🥹
+11/17/22, 18:35 - Arunya Goojar: bhai first ntcc aur second me report khud likhi thi bas 🙂, the project was copy paste.
+11/17/22, 20:41 - Prateek: bs wali maam ki mail id kya h?
+11/17/22, 21:03 - Nitin Singh: This message was deleted
+11/17/22, 21:03 - Nitin Singh: This message was deleted
+11/17/22, 21:05 - Prateek: @917550771958
+11/17/22, 21:06 - Akash Sawan: parora2@vf.amity.edu
+11/17/22, 22:01 - Sahil Chauhan: Ma’am ko jo lap ki pdf mail krni h usme class me jo activities krwayi h wo include krni h?
+11/17/22, 22:02 - Akash Sawan: ha shyd se krni h wo include
+11/17/22, 22:02 - Sam Jain: Jiske paas nahi h wo?🙂
+11/17/22, 22:03 - Akash Sawan: 🙂
+wahi main v sochra
+11/17/22, 22:03 - Sam Jain: Ma'am ko btana chahiye tha ki smbhaal kr rkhna 🙂
+11/17/22, 22:12 - Rehan Khan (CR): Bhai lap ko mail nahi karna hai
+11/17/22, 22:12 - Rehan Khan (CR): Bas print out karake kal le aana
+11/17/22, 22:12 - Sahil Chauhan: To Ma’am ki mail id kisliye maang rhe ho bhai?
+11/17/22, 22:13 - Rehan Khan (CR): Are unka kuch aur kaam hai
+11/17/22, 22:13 - Sahil Chauhan: Ohh okhay
+11/17/22, 22:36 - Akash Sawan: aree Maine nii manga
+11/18/22, 10:43 - Yash Deo: Today i.e. Friday (18/11/22), there is a quiz of ADA module 4 & 5 at 11:15 am, all have to be present in the class for the quiz.
+Presence in the class is must.
+Quiz time : 11.20am to 12.00 pm 
+Venue: E3-312
+11/18/22, 10:43 - Yash Deo: I forgot 💀
+11/18/22, 10:43 - Sam Jain: Ghr se de dunga m toh 🫠
+11/18/22, 10:43 - Sam Jain: Link yaha bhj dena 🙂
+11/18/22, 10:43 - Yash Deo: Haan pls
+11/18/22, 10:43 - Ishan Vijay: Me from cab or metro 🚇
+11/18/22, 10:43 - Ishan Vijay: 🥲
+11/18/22, 10:44 - Sam Jain: Attendance lgaega tb ki tb dekh lenge
+11/18/22, 10:45 - Sam Jain: Lap ke alawa wo dusri activity kisne ki h BS ki?🥹
+11/18/22, 11:12 - Yash Deo: Meine ni ki
+11/18/22, 11:14 - Sam Jain: Chlo I'm not alone then 😂
+11/18/22, 11:17 - Ishan Vijay: Unke paas time bhi hai assessment lene ke liye 🥲
+11/18/22, 11:17 - Yash Deo: No clue
+11/18/22, 11:17 - Sam Jain: Unke upar h wo m kese btau ab kuch bcho m special chull ho assessment krane ki marks k liye toh pta ni 🫠
+11/18/22, 11:22 - Ishan Vijay: null
+11/18/22, 11:23 - Sam Jain: Kya kre iska? Exam m kaam aaega?
+11/18/22, 11:23 - Yash Deo: Kya hi 11:30 mein test krwa rhey 😭
+11/18/22, 11:23 - Yash Deo: Link bhejwao aur test krlo abhi hi
+11/18/22, 11:41 - Parth Verma: https://forms.office.com/Pages/ResponsePage.aspx?id=dqBGjZPQbUGle4aSzeE7-Nbi5UXYNZ9Ch9TbSLsdLn5UQVlERjNPTExGRzhLR1Q5NDdNR1gxM1g5Vy4u
+11/18/22, 11:43 - Deepak Singh: <Media omitted>
+11/18/22, 11:43 - Deepak Singh: <Media omitted>
+11/18/22, 11:43 - Deepak Singh: <Media omitted>
+11/18/22, 11:44 - Deepak Singh: <Media omitted>
+11/18/22, 11:44 - Deepak Singh: <Media omitted>
+11/18/22, 11:44 - Deepak Singh: <Media omitted>
+11/18/22, 11:44 - Deepak Singh: <Media omitted>
+11/18/22, 11:52 - +91 99717 98105: koi btado guys
+11/18/22, 11:52 - +91 99717 98105: 👀
+11/18/22, 11:52 - Akash Sawan: <Media omitted>
+11/18/22, 11:54 - +91 99717 98105: sawan aur bhej
+11/18/22, 11:55 - KARANVEER SINGH: <Media omitted>
+11/18/22, 11:56 - KARANVEER SINGH: <Media omitted>
+11/18/22, 11:57 - Parth Verma: <Media omitted>
+11/18/22, 11:58 - Subham Amity: Kitne baje close ho raha hai ye?
+11/18/22, 11:58 - Prateek: This message was deleted
+11/18/22, 11:58 - +91 99717 98105: bro fraft kro
+11/18/22, 11:59 - Subham Amity: When does form close?
+11/18/22, 12:01 - Parth Verma: <Media omitted>
+11/18/22, 12:03 - KARANVEER SINGH: <Media omitted>
+11/18/22, 12:03 - +91 74549 40509: A
+11/18/22, 12:03 - +91 97178 75714: <Media omitted>
+11/18/22, 12:03 - +91 99717 98105: kha bhet ke krra h tu
+11/18/22, 12:03 - +91 74549 40509: Parking m hu
+11/18/22, 12:04 - +91 99717 98105: okh
+11/18/22, 12:04 - +91 97178 75714: <Media omitted>
+11/18/22, 12:04 - Prateek: <Media omitted>
+11/18/22, 12:04 - Prateek: ?
+11/18/22, 12:04 - Sahil Chauhan: thank u bro
+11/18/22, 12:05 - Prateek: <Media omitted>
+11/18/22, 12:05 - Parth Verma: <Media omitted>
+11/18/22, 12:06 - Prateek: ?
+11/18/22, 12:06 - Akash Sawan: both hoga not confirmed
+11/18/22, 12:07 - Akash Sawan: s1 sahi h koi s2 ka confirm btao agr pta ho
+11/18/22, 12:07 - +91 97178 75714: <Media omitted>
+11/18/22, 12:08 - +91 79834 76813: 3rd
+11/18/22, 12:09 - +91 97178 75714: 36
+11/18/22, 17:17 - Sam Jain: I hope all have received their ARA login credentials
+11/18/22, 17:17 - Sam Jain: @917550771958 bhai 🥹 konse credentials 🥲
+11/18/22, 17:18 - Sam Jain: <Media omitted>
+11/18/22, 17:19 - +91 85868 51284: @917550771958 not yet received
+11/18/22, 17:19 - Vaibhav Choudhary: +1
+11/18/22, 17:19 - Kapil Yadav: +1
+11/18/22, 17:21 - +91 84495 14233: Kuch nhi aaya bhai
+11/18/22, 17:21 - Subham Kulshrestha: +1
+11/18/22, 17:21 - Ashish Singh: +1
+11/18/22, 17:23 - Prateek: +1
+11/18/22, 17:23 - Rehan Khan (CR): +1
+11/18/22, 17:24 - +91 99717 98105: +1
+11/18/22, 17:24 - +91 97855 50263: +1
+11/18/22, 17:26 - Sam Jain: <Media omitted>
+11/18/22, 17:28 - +91 99536 97085: +1
+11/18/22, 17:29 - +91 95405 76127: not received
+11/18/22, 17:30 - +91 97178 75714: Not received
+11/18/22, 17:31 - +91 96674 29371: +1
+11/18/22, 17:35 - Khushi: +1
+11/18/22, 17:35 - +91 79884 42475: +1
+11/18/22, 17:37 - Daniyal Deen: +1
+11/18/22, 18:03 - Dhruv: +1
+11/18/22, 18:05 - +91 82879 91339: +1
+11/18/22, 18:07 - KARANVEER SINGH: +1
+11/18/22, 18:08 - Ishan Vijay: This message was deleted
+11/18/22, 18:08 - Ishan Vijay: +1
+11/18/22, 18:32 - Akash Sawan: +1
+11/18/22, 18:41 - Bhagwinder Singh: +1
+11/18/22, 18:52 - Prateek: Kl exam h
+11/18/22, 18:52 - Prateek: SKE ka?
+11/18/22, 18:52 - Ishan Vijay: This message was deleted
+11/18/22, 18:52 - Prateek: Someone told me
+11/18/22, 18:55 - Rehan Khan (CR): Haan bhai announcement me posted to hai😅😅
+11/18/22, 18:59 - Ishan Vijay: Info - 2:
+*The external Exam is scheduled on Saturday, November 19, 2022 from 12noon to 1pm. The test will be conducted on Proctored portal.*
+
+*The registration window for approvals will be live from 11am onwards.* 
+
+Kindly circulate in your batches.
+All the best.
+11/18/22, 19:03 - Sahil Chauhan: @917550771958 bro mere credentials nhi aaye
+11/18/22, 19:04 - Sam Jain: @917550771958 Bhai mere bhi nhi 🥲
+11/18/22, 19:05 - Ishan Vijay: +1
+11/18/22, 19:08 - Arunya Goojar: @917550771958 nai aye credentials
+11/18/22, 19:11 - Rehan Khan (CR): Haan ji bhai boldiya hai faculty ko wo resend krdenge raat tak
+11/18/22, 19:11 - Rehan Khan (CR): Tension not
+11/18/22, 19:39 - +91 74549 40509: SKE[ARA] ka credentials same hi hai internals waala
+Woh log firse bhej rhe hai dheere dheere sabko
+Aur us message mein saari details hongi
+11/18/22, 19:40 - Sahil Chauhan: Cisco ke assessments band hogye h kya?
+11/18/22, 19:41 - Sahil Chauhan: Assessment not activated likha aarha h
+11/18/22, 19:41 - Sahil Chauhan: Sir to aaj last day bola tha ki 18 ke baad band honge
+11/18/22, 19:41 - +91 74549 40509: Prso last date thi
+11/18/22, 19:41 - Sahil Chauhan: Hein?
+11/18/22, 19:41 - +91 74549 40509: Hn
+11/18/22, 19:41 - Sahil Chauhan: Maine to kal hi 4 assessments kiye the raat me
+11/18/22, 19:42 - +91 85868 51284: Same mene bhi morning me kiye the 4
+11/18/22, 19:42 - +91 74549 40509: Phir apne section ka late hpga
+11/18/22, 19:42 - +91 74549 40509: Mere baki dosto ka bnd hogya h
+11/18/22, 19:42 - Sahil Chauhan: Haan bhai sir ne 18 last day bola tha but ye to aaj hi band hogya
+11/18/22, 19:43 - Sahil Chauhan: @917550771958 bro dekh lo agr 3-4 ghante ke liye khul jaye to
+11/18/22, 19:43 - Sahil Chauhan: Sir se baat krke dekh lo ek baar
+11/18/22, 19:43 - +91 74549 40509: @917550771958
+11/18/22, 19:45 - Rehan Khan (CR): Bhai mai bolke dekhlunga agar sir call utha lenge to😅😅😅
+11/18/22, 19:45 - Sahil Chauhan: Haan bro ek baar try krlo
+11/18/22, 19:45 - Sahil Chauhan: Aaj raat 12 bje tak bhi khul jaye to bohot h
+11/18/22, 19:50 - Arunya Goojar: Aj thi last , mene aj ratme kiea the
+11/18/22, 20:03 - Ishan Vijay: Haa yaar 🥲.
+11/19/22, 10:46 - +91 98379 75356: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/GlpveRX4aAyGJqJ8xOQvw1
+11/19/22, 10:46 - +91 98379 75356: Set E wale aajao sbh
+11/19/22, 10:50 - Parth Verma: Set c ka bhi koi link hai kya?
+11/19/22, 10:50 - Kapil Yadav: +1
+11/19/22, 10:52 - Shivansh: Set B kaa bhi hai koi group?
+11/19/22, 10:54 - Kamran Khan: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/GlpveRX4aAyGJqJ8xOQvw1
+11/19/22, 10:54 - Kamran Khan: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/FArTCrff28xEwOKTX76l3G
+11/19/22, 10:54 - Kamran Khan: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/FArTCrff28xEwOKTX76l3G
+11/19/22, 10:54 - Kamran Khan: https://chat.whatsapp.com/GRUMqfWDfS47QZMCJc2rbC
+11/19/22, 10:54 - Kamran Khan: https://chat.whatsapp.com/C5nEakJwJWN31QP6NzoLdW
+11/19/22, 10:55 - Priyansh Chauhan: set C ka bhej de
+11/19/22, 10:59 - Kamran Khan: https://chat.whatsapp.com/EFShMKWDN0hJ5I6VhRnnhe
+11/19/22, 11:13 - Yash Deo: <Media omitted>
+11/19/22, 11:14 - A R Bhardwaj: Hmm
+11/19/22, 11:15 - Dhruv: mera bhi yahi parr stuck hai
+11/19/22, 11:16 - Yash Deo: baaki log btao
+11/19/22, 11:16 - Sam Jain: Start-ich ni kia 🙂
+11/19/22, 11:16 - Arunya Goojar: Are during your I'd scan , you need to include your face .
+11/19/22, 11:16 - Dhruv: mera hogya verify
+11/19/22, 11:17 - Dhruv: pehle web cam error aaya kuchh toh bhi
+11/19/22, 11:17 - Dhruv: yeah
+11/19/22, 11:17 - Yash Deo: mera abhi bhi stuck hai
+11/19/22, 11:18 - Your security code with Athar Zaheen changed. Tap to learn more.
+11/19/22, 11:20 - Your security code with Athar Zaheen changed. Tap to learn more.
+11/19/22, 11:22 - Subham Amity: Ab kya 40min tak camera ke aage hi baithma hoga exam start hone se pehle?
+11/19/22, 11:23 - Your security code with Athar Zaheen changed. Tap to learn more.
+11/19/22, 11:27 - Yash Deo: probably not
+11/19/22, 11:27 - Yash Deo: mera to bhai abhi bhi wohi dialog box dikha rha
+11/19/22, 11:28 - Sahil Chauhan: Mera bhi
+11/19/22, 11:28 - Sahil Chauhan: Or hat bhi nhi rha h
+11/19/22, 11:28 - Yash Deo: wohi hat bhi nhi rha reload krne ke baad
+11/19/22, 11:30 - Arunya Goojar: Nai
+11/19/22, 11:31 - Shivansh: +1
+11/19/22, 11:34 - Sam Jain: Gaana chla k beth jao invigilator pgla jaega 😂
+11/19/22, 11:34 - Sarthak Mishra: bhai teachers ka he login nhi ho rha hame kya verify krenge
+11/19/22, 11:34 - Kamran Khan: ID verification k liye face v show karna hota hai tab ja kar verify hota hai
+11/19/22, 11:35 - Sam Jain: Face verification k liye ek aur baar shyd capture krna hota h na?
+11/19/22, 11:35 - Sahil Chauhan: null
+11/19/22, 11:35 - Sahil Chauhan: Aise?😂
+11/19/22, 11:35 - Saksham Mittal: +1
+11/19/22, 11:35 - Sam Jain: 😂😂 ekdum 😂
+11/19/22, 11:36 - Arunya Goojar: Bhai aese gane mat chala , invigilator Sharma jayega 😅
+11/19/22, 11:36 - Sam Jain: null
+11/19/22, 11:37 - Akash Sawan: 😂
+11/19/22, 11:38 - Sam Jain: Bs tony kurkure mt chlana vrna wo mar mura jaega invigilator hi😂
+11/19/22, 11:39 - Sarthak Mishra: 7838363434
+11/19/22, 11:39 - Sarthak Mishra: Chalone spam kro espe😂😂😂
+11/19/22, 11:40 - Sarthak Mishra: *Chalo
+11/19/22, 11:43 - +91 83838 51924: E kiska hai
+11/19/22, 11:44 - Sam Jain: Kya h ye 😂
+11/19/22, 11:44 - Sarthak Mishra: IT wale ka number
+11/19/22, 11:45 - Sam Jain: Ho gya mera 😂
+11/19/22, 11:46 - Sahil Chauhan: Mera bhi😂
+11/19/22, 11:46 - Yash Deo: wow
+11/19/22, 11:46 - Yash Deo: mera nhi hua
+11/19/22, 11:46 - Sam Jain: Gaana pasand aa gya 😂😂
+11/19/22, 11:46 - Sahil Chauhan: Han
+11/19/22, 11:46 - Yash Deo: mein bhi gaane bja rha ab
+11/19/22, 11:46 - Akash Sawan: abe face aur id dono ek saath dikha
+11/19/22, 11:46 - Akash Sawan: ho jaega
+11/19/22, 11:47 - +91 85868 51284: Kese dikhate dono
+11/19/22, 11:47 - Sam Jain: Abbe phle sirf id dikhao
+11/19/22, 11:47 - +91 85868 51284: Pehle toh sirf id card verife karna hota
+11/19/22, 11:47 - Yash Deo: ye dialog box hate tab na
+11/19/22, 11:47 - Sam Jain: Baad m face ka aaega
+11/19/22, 11:48 - Your security code with Athar Zaheen changed. Tap to learn more.
+11/19/22, 11:48 - Akash Sawan: mera toh 10 baar fail hua
+last me ye kia ho gya
+11/19/22, 11:48 - Yash Deo: mera fail bhi ni ho rha 💀
+11/19/22, 11:48 - Akash Sawan: id card aur piche face dono visible hone chaiye
+11/19/22, 11:48 - Priyansh Chauhan: icognato mein kholne par chal gaya
+11/19/22, 11:48 - Sam Jain: Mene refresh kia or cookies clear ki fir ho gya
+11/19/22, 11:49 - Sam Jain: Bhai cookies clear kr fir refresh kr
+11/19/22, 11:50 - Sahil Chauhan: Mera aise kiye bina hi hogya
+11/19/22, 11:50 - +91 83838 51924: <Media omitted>
+11/19/22, 11:50 - Sam Jain: Mene toh meeting join ki rhi usme btaya
+11/19/22, 11:50 - Sam Jain: Time toh hone de 😂
+11/19/22, 11:50 - +91 83838 51924: Phir thik hai
+11/19/22, 11:50 - +91 83838 51924: 😂
+11/19/22, 11:50 - Sahil Chauhan: Bsdk sabar rakh le😂
+11/19/22, 11:50 - Sam Jain: Baaki sab mil baant k karenge koi akele akele ni krega 😂
+11/19/22, 11:51 - +91 83838 51924: Bhai login id aur password bhej raha hu mera karde
+11/19/22, 11:51 - Sahil Chauhan: Lund lele mera😂
+11/19/22, 11:51 - Sam Jain: Proctor toh chutiya h usko kya hi pta chlega 🙂
+11/19/22, 11:52 - +91 83838 51924: <Media omitted>
+11/19/22, 11:52 - Sahil Chauhan: <Media omitted>
+11/19/22, 11:52 - +91 99717 98105: 😂😂
+11/19/22, 11:53 - +91 83838 51924: Bhai amity hai kya pata peon hi rakh liya proctor
+11/19/22, 11:53 - Sam Jain: Wo bhi bsdka humse zyada kama raha hoga 🥲
+11/19/22, 11:54 - Arunya Goojar: Kaunsa proctor, bhai koi nai dekhta , mcq Wale exam m .
+11/19/22, 11:54 - Sam Jain: Bhai mene panga liya hua h last time toh mujhe pata h 😂
+11/19/22, 11:55 - Arunya Goojar: Me toh uth ke chala gya tha 🙂
+11/19/22, 11:55 - Sam Jain: Bc mere maje leri thi 🥲
+11/19/22, 11:55 - Sam Jain: Lovely naam ki faculty thi 🥲
+11/19/22, 11:55 - Sam Jain: Loveday lgake gyi 🥲
+11/19/22, 11:56 - Akash Sawan: maths waali?
+11/19/22, 11:56 - Sam Jain: Haa 😂
+11/19/22, 11:56 - +91 85868 51284: condolences
+11/19/22, 11:56 - Sam Jain: Accepted 🙂
+11/19/22, 11:56 - Akash Sawan: bc wo depressed aatma
+11/19/22, 11:57 - Sam Jain: <Media omitted>
+11/19/22, 11:58 - Sam Jain: Bc 50 questions 60 marks 60 minutes 🙂
+11/19/22, 11:58 - Sam Jain: Kya bakchodi h ye 🙂
+11/19/22, 11:58 - Sam Jain: Saala 1.5 minute bhi nhi Diya question krne ka sahi se 🥹
+11/19/22, 11:59 - Arunya Goojar: Why am I getting flashbacks of jee preparation 🤡💀
+11/19/22, 11:59 - Arunya Goojar: .
+11/19/22, 12:00 - Yash Deo: Mera shuru ni ho rha
+11/19/22, 12:00 - Yash Deo: 💀
+11/19/22, 12:00 - KARANVEER SINGH: Us mai paas tha fail tha ?
+11/19/22, 12:00 - Sam Jain: <Media omitted>
+11/19/22, 12:00 - KARANVEER SINGH: 😂😂😂💁🏼‍♂️💁🏼‍♂️💁🏼‍♂️
+11/19/22, 12:00 - Arunya Goojar: Tu bata
+11/19/22, 12:01 - +91 84489 25136: Camera microphpne access de rkha h
+11/19/22, 12:02 - +91 84489 25136: Tbhi bhi nhi chlra
+11/19/22, 13:11 - Sam Jain: Bhai aaj major ka exam tha?🙂@917550771958 ?
+11/19/22, 13:13 - Yash Deo: ji sir 🛐
+11/19/22, 13:13 - Sam Jain: Bhai iska bhi summer sem hoga kya?🥲😅
+11/19/22, 13:13 - Sarthak Mishra: Aur bann le comedy king
+11/19/22, 13:13 - Sarthak Mishra: 😒
+11/19/22, 13:13 - Sam Jain: <Media omitted>
+11/19/22, 13:16 - Rehan Khan (CR): Haan bhai
+11/19/22, 13:16 - Sam Jain: Kis kisko aesa lgra tha ki questions repeat hore h ya show ni kr re?
+11/19/22, 13:16 - Sam Jain: Shukriya bhai esi good morning k liye 🥹
+11/19/22, 13:16 - Yash Deo: Refresh krna tha sir 💀
+11/19/22, 13:17 - Rehan Khan (CR): Bhai mera to panel hi hang ho raha tha baar baar
+11/19/22, 13:17 - Sam Jain: Bhai mera sahi hua h bhot logo ka nhi hora tha 😂
+11/19/22, 13:17 - Sam Jain: Mera 2 baar phone aa gya tha camera m teacher nashe m the shyd 😂
+11/19/22, 13:17 - Yash Deo: Bhai meine teacher se sawal pucha aur wohi dip krgyi
+11/19/22, 13:17 - Yash Deo: Saala option d dab hi nhi rha tha
+11/19/22, 13:18 - Yash Deo: Jinka jinka complete nhi hua and feel. It was way to lengthy.. Yha likh do 1 baar
+11/19/22, 13:18 - Yash Deo: Inhe dekhlo 😂
+11/19/22, 13:18 - Sam Jain: <Media omitted>
+11/19/22, 13:19 - A R Bhardwaj: Refresh krne pe bhi shame hi issue thi
+11/19/22, 13:19 - Sam Jain: Jinka ye hua unko m bta du iske summer sem k 7.5k alag rkhna 🙂
+11/19/22, 13:20 - Yash Deo: mera 3 4 baar krne ke baad sahi hogya tha
+11/19/22, 13:20 - Sam Jain: Mera ek baar m hi 🙂
+11/19/22, 13:20 - A R Bhardwaj: Mera phir bhi ni hua to bs same questions ke same answer mark kr diya😂
+11/19/22, 13:21 - KARANVEER SINGH: 🫶😂
+11/19/22, 13:21 - Sam Jain: Meri hamdardi tumhare saath h 🥹
+11/19/22, 13:28 - +91 88263 03340: Bhai
+11/19/22, 13:30 - Yash Deo: Ye bhi shi 😂
+11/19/22, 13:32 - Yash Deo: reexam will be happening at 3pm today
+11/19/22, 13:32 - Yash Deo: lmao
+11/19/22, 13:33 - Sam Jain: Hein? 🙂
+11/19/22, 13:33 - Yash Deo: Keh rhey ki re-exam de sakte bache if they want
+11/19/22, 13:33 - Arunya Goojar: From Where ?
+11/19/22, 13:33 - Sam Jain: Bc ye exam lere h ki sabzi mandi m sabzi bech re h 🙂
+11/19/22, 13:33 - Sam Jain: Phle btana chahiye tha m araam se so leta 🫠
+11/19/22, 13:34 - Yash Deo: <Media omitted>
+11/19/22, 13:34 - Yash Deo: Group pe likh rhey they log
+11/19/22, 13:34 - Yash Deo: Mereko kya mein na de rha ab
+11/19/22, 13:34 - Sam Jain: @917550771958 @918368854079 investigate kro ye matter hume tumpe bhrosa h 🥹
+11/19/22, 13:35 - Sam Jain: M de rha bhai ache se de paunga is baar 🥹
+11/19/22, 13:35 - Sam Jain: Questions ka pattern pta h na ab
+11/19/22, 13:35 - Yash Deo: Abey chor na 💀 kya becharo se investigate krwa rha
+11/19/22, 13:36 - Sam Jain: Chalo chhodo 🙂 hume kya hum toh pass kar lenge 🙂
+11/19/22, 13:39 - Akash Sawan: kahin re-exam me jitne hue h
+wo v naa hue toh🪦
+11/19/22, 14:07 - Ishan Vijay: Who cares 😒. Just Amity things. Koi bharosa nhi
+11/19/22, 20:37 - +91 85868 51284: PLs please prepare the list of students and enrollment number who could not give FBL due to amigo portal not working.
+11/19/22, 20:37 - +91 93102 84364: <Media omitted>
+11/19/22, 20:37 - Subham Amity: Me
+11/19/22, 20:37 - Arunya Goojar: Me
+11/19/22, 20:38 - Sahil Chauhan: Official pe likho unofficial pe nhi🤦🏻‍♂️
+11/19/22, 20:38 - +91 85868 51284: bhai last msg pl sir ka dekke himmat nahi hori kuch likne ki
+11/19/22, 20:54 - Subham Amity: Form bane ne ke liye bola hai
+11/20/22, 21:17 - Your security code with +91 74549 40509 changed. Tap to learn more.
+11/20/22, 21:19 - Your security code with +91 74549 40509 changed. Tap to learn more.
+11/20/22, 22:25 - Your security code with +91 74549 40509 changed. Tap to learn more.
+11/21/22, 00:14 - Sam Jain: Anyone have done that bs Excel thing?
+11/21/22, 00:14 - Akash Sawan: wo survey wala kya?
+11/21/22, 00:15 - Sam Jain: Haa
+11/21/22, 08:26 - Your security code with Arunya Goojar changed. Tap to learn more.
+11/21/22, 09:27 - Sarthak Mishra: Purane wale SAP bhej de
+11/21/22, 09:27 - Sarthak Mishra: This message was deleted
+11/21/22, 09:28 - Sarthak Mishra: Last semester Jo bheja tha
+11/21/22, 12:00 - Sam Jain: Hona bhi toh chaiye 🙂
+11/21/22, 12:49 - Akash Sawan: teams pr hai🙂
+11/21/22, 12:52 - Sam Jain: sachi?
+11/21/22, 15:01 - Akash Sawan: hmm
+11/21/22, 16:28 - +91 74549 40509: <Media omitted>
+11/21/22, 16:28 - +91 74549 40509: its official german and bs exam will be online via amizone in mcq mode
+11/21/22, 16:28 - +91 74549 40509: also timetable is now published on amizone too
+11/23/22, 13:22 - Sam Jain: <Media omitted>
+11/23/22, 13:27 - A R Bhardwaj: Hme bhi aayi hai
+11/23/22, 13:27 - Sam Jain: Ye bc pdhne ni denge 🥲
+11/23/22, 13:33 - +91 88263 03340: Kya hai yeh?
+11/23/22, 13:46 - Sam Jain: Bakchodi 🙂
+11/23/22, 21:23 - Divyajeet S. Raj Purohit: ☕
+11/23/22, 22:24 - The Robotron: ☕
+11/23/22, 22:25 - Sam Jain: <Media omitted>
+11/23/22, 22:40 - Divyajeet S. Raj Purohit: <Media omitted>
+11/24/22, 14:11 - Subham Amity: Anyone getting the admit card rn?
+11/24/22, 14:18 - Yash Deo: nah got mine yesterday
+11/25/22, 16:04 - Your security code with Arunya Goojar changed. Tap to learn more.
+11/26/22, 15:58 - Anilansh Verma: <Media omitted>
+11/26/22, 15:58 - Anilansh Verma: <Media omitted>
+11/26/22, 15:58 - Anilansh Verma: <Media omitted>
+11/26/22, 16:18 - Anilansh Verma: Sab isme se mat prepare karna
+11/26/22, 16:19 - Akash Sawan: ha ha bs idea lene k liye
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/29/22, 16:53 - Anilansh Verma: <Media omitted>
+11/30/22, 20:19 - Yash Deo: does anyone have the minor paper for networking?
+11/30/22, 20:20 - +91 72097 39311: <Media omitted>
+11/30/22, 20:26 - Yash Deo: thanks!
+11/30/22, 20:55 - +91 83838 51924: Koi networking ka question paper share kardo sap wala
+11/30/22, 21:43 - Your security code with Arunya Goojar changed. Tap to learn more.
+12/4/22, 15:08 - Yash Deo: kisi ke paas dbms ka minor paper hai?
+12/4/22, 15:19 - Parth Verma: <Media omitted>
+12/4/22, 15:19 - Parth Verma: <Media omitted>
+12/4/22, 15:30 - Yash Deo: thanks bhai
+12/4/22, 21:21 - Your security code with +91 99536 97085 changed. Tap to learn more.
+12/5/22, 17:31 - Your security code with +91 85272 31540 changed. Tap to learn more.
+12/6/22, 00:46 - Vaibhav Choudhary: <Media omitted>
+12/6/22, 00:46 - Vaibhav Choudhary: <Media omitted>
+12/6/22, 00:46 - Vaibhav Choudhary: <Media omitted>
+12/6/22, 00:46 - Vaibhav Choudhary: <Media omitted>
+12/6/22, 00:54 - Ashish Singh: <Media omitted>
+12/6/22, 00:58 - Arunya Goojar: <Media omitted>
+12/6/22, 01:00 - Prateek: Isspe toh Nov-Dec 2022 likha h?
+12/6/22, 01:10 - +91 88263 03340: Course code alag h
+12/6/22, 09:33 - Sahil Chauhan: <Media omitted>
+12/6/22, 13:47 - Prateek: @917550771958 👏
+12/6/22, 13:53 - Sam Jain: <Media omitted>
+12/7/22, 12:03 - Your security code with Muskan ( CR ) changed. Tap to learn more.
+12/7/22, 12:10 - Your security code with Muskan ( CR ) changed. Tap to learn more.
+12/7/22, 12:12 - Your security code with Muskan ( CR ) changed. Tap to learn more.
+12/8/22, 14:57 - Akash Sawan: 🛑 MyCaptain INTERNSHIP APPLICATION!!!
+
+Looking for a *Free Internship Opportunities*? Then this is the right place to work! NSRCEL IIM BANAGALORE incubated company, *MYCAPTAIN* brings "Work From Home" internship!✅
+Selection Process:-⏲️
+- Telephonic Interview (Round 1)
+- Assignment (Round 2)
+
+📍Job roles : 1. Marketing, 2. Human-Recourse(HR), 3. Team Leader, 4. Operation
+📆 Duration: 1month and flexible Timings
+ 
+🟣 Apply:- *https://bit.ly/MyCaptain_CAreg* (Save no. for link activation)
+
+✨PERKS:-
+1. Work from home
+2. Flexible working hours
+3. Stipend - get paid for your work 
+4. Certificates for the Internship📃
+5. Letter of recommendation based on your performance 📈
+12/10/22, 17:22 - Your security code with +91 94571 18552 changed. Tap to learn more.
+12/13/22, 08:21 - Sahil Chauhan: Bs ke exam ke credentials mile kisiko?
+12/13/22, 08:43 - +91 83838 51924: Haa bhai
+12/13/22, 08:43 - Sahil Chauhan: Ok ok mil gye mujhe bhi ab✌🏻
+12/18/22, 18:11 - +91 84489 25136: This message was deleted
+12/20/22, 10:16 - +91 97855 50263: Y batch , come in E1 1LA-2
+12/22/22, 15:55 - Shivansh: https://youtu.be/gX942fdjWek
+12/22/22, 21:28 - Your security code with +91 97178 75714 changed. Tap to learn more.
+12/25/22, 19:13 - Your security code with +91 96508 83738 changed. Tap to learn more.
+12/25/22, 21:59 - Divyajeet S. Raj Purohit: a̺a̺p̺ s̺a̺b̺k̺o̺ c̺h̺i̺r̺t̺s̺m̺a̺s̺ k̺i̺ r̺a̺m̺ r̺a̺m̺ 🙏🙏
+12/26/22, 22:05 - +91 85868 51284 changed to +91 73038 86664
+12/27/22, 13:40 - Prateek: <Media omitted>
+12/27/22, 13:40 - Prateek: APW agaya kya?
+12/27/22, 13:42 - Anilansh Verma: 6th sem ka kuchh pata hai kab start hoga???
+12/27/22, 14:07 - Sam Jain: Shyd 2nd se
+12/27/22, 14:14 - Prateek: @917550771958
+12/27/22, 15:48 - Shivansh: This message was deleted
+12/27/22, 21:27 - Subham Amity: This message was deleted
+12/27/22, 21:39 - Prateek: Agar compulsory m nhi h toh nhi lena shayad
+12/27/22, 21:40 - Subham Amity: French FBL group konsa le rahe ho?
+12/28/22, 14:52 - Prateek: SKE bhi opt krna h?
+12/28/22, 16:14 - Prateek: @917550771958
+12/28/22, 16:23 - +91 88263 03340: Hn
+12/28/22, 17:34 - Prateek: This message was deleted
+12/28/22, 19:17 - Prateek: HVCO ka konsa group opt krna h
+12/28/22, 19:17 - Prateek: ?
+12/28/22, 19:17 - shubhradeep 2: Third last dekh
+12/28/22, 19:17 - shubhradeep 2: Thursday
+12/28/22, 19:18 - Prateek: Ok
+12/28/22, 19:18 - shubhradeep 2: 2:15 se 3:10
+12/29/22, 23:32 - Your security code with shubhradeep 2 changed. Tap to learn more.
+12/31/22, 13:23 - Your security code with shubhradeep 2 changed. Tap to learn more.
+1/1/23, 17:04 - Your security code with +91 95405 76127 changed. Tap to learn more.
+1/1/23, 17:07 - Your security code with +91 95405 76127 changed. Tap to learn more.
+1/2/23, 09:04 - Your security code with Arunya Goojar changed. Tap to learn more.
+1/2/23, 09:04 - Your security code with +91 96508 83738 changed. Tap to learn more.
+1/2/23, 12:57 - Yash Deo: app.creately.com
+1/3/23, 09:45 - Your security code with shubhradeep 2 changed. Tap to learn more.
+1/3/23, 12:23 - Deepak Singh: Digital image processing and computer vision is in E1-310
+1/3/23, 12:24 - Deepak Singh: *e1-210
+1/3/23, 12:59 - Rehan Khan (CR): Follow this link to join my WhatsApp group: https://chat.whatsapp.com/BdCUahruEUV1pEs2ATRfPe
+1/3/23, 12:59 - Rehan Khan (CR): Cloud computing students please join
+1/4/23, 07:52 - Your security code with Arunya Goojar changed. Tap to learn more.
+1/4/23, 12:31 - Sam Jain: <Media omitted>
+1/4/23, 20:35 - Prateek: @917550771958  @918368854079  Tejesh narayan ki CC Or veenu maam wali attendance lagwado
+1/4/23, 20:35 - Prateek: Or Groups m bhi add krdo
+1/4/23, 21:02 - Prateek: Meri bhi
+1/5/23, 10:20 - Arunya Goojar: 11 am p class nai h kya ?
+1/5/23, 10:21 - Muskan ( CR ): Nhi h
+1/5/23, 10:21 - Shivansh: 🙅🏻‍♂️
+1/5/23, 12:20 - Shivansh: https://youtu.be/QUnaBYKQkZU
+1/5/23, 12:27 - Anilansh Verma: Are class kahaan hai???
+1/5/23, 12:27 - Rehan Khan (CR): 309
+1/6/23, 11:09 - Your security code with KARANVEER SINGH changed. Tap to learn more.
+1/6/23, 15:43 - Vishal (CSE Y Batch): https://chat.whatsapp.com/I64bMH9Tw2mEDpvvYe3LDD
+1/6/23, 19:29 - Muskan ( CR ): Good evening everyone
+
+Is there anyone who's interested in participating in Cyber Cup 2023 (24 hour hackathon) ?
+If yes, then dm me as tomorrow is the last date for registration
+1/6/23, 20:17 - Your security code with KARANVEER SINGH changed. Tap to learn more.
+1/7/23, 11:20 - Yash Deo: If anyone's participating in cybercup, pls dm me 🛐
+1/9/23, 12:33 - Anilansh Verma: Lab groung floor pe hai???
+1/9/23, 12:54 - Yash Deo: You can also use this online simulator: https://online.visual-paradigm.com/drive/?#diagramlist:proj=0&dashboard
+1/9/23, 12:55 - Yash Deo: isse bhi ban jaayega, bas login karna hoga
+1/9/23, 13:31 - Kamran Khan: <Media omitted>
+1/9/23, 13:39 - Kamran Khan: <Media omitted>
+1/9/23, 13:39 - Kamran Khan: <Media omitted>
+1/9/23, 13:39 - Kamran Khan: <Media omitted>
+1/9/23, 13:40 - Kamran Khan: <Media omitted>
+1/9/23, 13:40 - Kamran Khan: <Media omitted>
+1/9/23, 13:40 - Kamran Khan: <Media omitted>
+1/9/23, 13:40 - Kamran Khan: <Media omitted>
+1/9/23, 17:38 - Subham Amity: <Media omitted>
+1/9/23, 18:02 - Your security code with Sam Jain changed. Tap to learn more.
+1/10/23, 00:28 - Shivansh: https://codingcompetitions.withgoogle.com/
+1/10/23, 07:54 - Your security code with Sam Jain changed. Tap to learn more.
+1/10/23, 16:19 - Muskan ( CR ): All the classes are over for both the batches
+
+Can go Home now
+1/11/23, 11:37 - Yash Deo: @roshanlalsir https://youtu.be/wW1IrjffKGE
+1/12/23, 07:13 - Your security code with shubhradeep 2 changed. Tap to learn more.
+1/12/23, 16:02 - Sam Jain: <Media omitted>
+1/13/23, 23:15 - +91 74549 40509: I lost my AirPods had somebody seen them ?
+Airpods Pro 2nd gen
+1/13/23, 23:15 - +91 74549 40509: <Media omitted>
+1/13/23, 23:16 - +91 74549 40509: <Media omitted>
+1/13/23, 23:16 - +91 74549 40509: This is what they look like
+1/13/23, 23:23 - +91 74549 40509: Has*
+1/14/23, 14:53 - Divyajeet S. Raj Purohit: This message was deleted
+1/14/23, 14:53 - Divyajeet S. Raj Purohit: Mile?
+1/14/23, 15:07 - +91 74549 40509: Nahi
+1/14/23, 15:14 - Divyajeet S. Raj Purohit: You'll probably never see them again.
+1/14/23, 15:14 - +91 74549 40509: Maybe
+1/14/23, 15:14 - Divyajeet S. Raj Purohit: No one'll return them to you.
+1/14/23, 15:14 - Divyajeet S. Raj Purohit: if found
+1/14/23, 15:15 - Divyajeet S. Raj Purohit: Unless they know you
+1/14/23, 15:15 - KARANVEER SINGH: Location band ho gai kya uski?
+1/14/23, 15:15 - +91 74549 40509: Nahi
+1/14/23, 15:15 - +91 74549 40509: Ari h
+1/14/23, 15:15 - KARANVEER SINGH: To pahunch ja na vha par
+1/14/23, 15:15 - KARANVEER SINGH: Soch kya rha hai
+1/14/23, 15:16 - +91 74549 40509: High rise h location h
+1/14/23, 15:16 - +91 74549 40509: 95 100 apartments honge
+1/14/23, 15:16 - +91 74549 40509: Muje kese pata konse m h
+1/14/23, 15:16 - KARANVEER SINGH: Bhai mera accurate location
+1/14/23, 15:16 - KARANVEER SINGH: Aajaati ek dun
+1/14/23, 15:16 - KARANVEER SINGH: Vha par ja to sahi
+1/14/23, 15:17 - +91 74549 40509: Hn
+1/15/23, 16:53 - Your security code with shubhradeep 2 changed. Tap to learn more.
+1/16/23, 14:24 - Yash Deo: Sir is taking CC class in E3 317
+Come fast everyone
+1/16/23, 14:24 - Yash Deo: 💀💀💀
+1/16/23, 16:31 - Akash Sawan: <Media omitted>
+1/16/23, 16:45 - Akash Sawan: <Media omitted>
+1/16/23, 16:45 - Akash Sawan: <Media omitted>
+1/16/23, 16:45 - Akash Sawan: <Media omitted>
+1/16/23, 16:57 - +91 72097 39311: This message was deleted
+1/16/23, 16:57 - Dhruv: <Media omitted>
+1/16/23, 16:57 - Dhruv: <Media omitted>
+1/17/23, 10:39 - shubhradeep 2: software engg ki attendance sahi ki Mam ne?
+1/18/23, 11:32 - Ishan Vijay: All the best for those who are participating in cyber cup contest 😃 !
+1/18/23, 16:52 - Sam Jain: 🛑🛑🛑🛑🛑🛑
+
+*IMMENSPHERE is a world-class IT Solutions & Training Program at your fingertips*
+
+Students who have not done any *INDUSTRIAL PROJECT* till now / are looking forward for *Work as from Home* *TRAINING+INDUSTRIAL PROJECT* opportunities can join the Group from the Link Mentioned Below to know about the Opportunities Available!
+
+*PS: You can successfully submit this as your  Industrial Training Report / Project Completion Certificate in your college!*
+*Also the Major & Minor Projects that you do here, can be submitted to the college*
+
+*INTERESTED STUDENTS CAN JOIN THE GROUP FOR FURTHER DETAILS*
+
+https://chat.whatsapp.com/Bicf9gsDtSP9qbim4ohE4U
+1/18/23, 20:22 - Sahil Chauhan: [14:36, 18/01/2023] upmachauhanchhoker: I will class at 4:15PM today please be present all
+[14:37, 18/01/2023] upmachauhanchhoker: during conference I will attendance on same event for 19 and 20 January 2023
+[14:38, 18/01/2023] upmachauhanchhoker: All of ypu to be present for the same both days since 9:15AM onwardes
+1/18/23, 20:22 - Sahil Chauhan: Kal kitne bje aana h?
+1/18/23, 20:23 - Sam Jain: English at it's high😎
+1/18/23, 20:23 - Sahil Chauhan: Whi to bhai
+1/18/23, 20:24 - Sam Jain: Kisko coding aati h Himmt h toh isko decode krke dikhao🥶
+1/18/23, 20:24 - A R Bhardwaj: Inhone text timing bhi mention ki hai😂
+1/18/23, 20:24 - Sam Jain: Arre kisi aur ko message Kia h waha se copy krke yaha bheja h toh timing aur sab likha aaya h
+1/18/23, 20:24 - Akash Sawan: aur ye CC pdha rhe 🙂
+1/18/23, 20:25 - Sam Jain: Bol re h compiler bna k isko compile krke dikhao🤣
+1/18/23, 20:25 - Sahil Chauhan: Ab koi ye btao ki kya scene h iska kitne bje aana h
+1/18/23, 20:25 - Akash Sawan: whatsapp me forward ka v option de rkha h
+1/18/23, 20:25 - Sam Jain: Inko copy krna h aakhir CC(CopyCat) bhi toh pdhaenge 👀
+1/18/23, 20:25 - Akash Sawan: isne bola toh 9:15 ka h mssg me
+aur class 4:15 pm me lega
+1/18/23, 20:26 - Sam Jain: <Media omitted>
+1/18/23, 20:27 - Sahil Chauhan: To hume 9:15 pe nhi aana normal time pe hi aana h?
+1/18/23, 20:27 - Sam Jain: Us se bda question 
+Kya hume kal aana h?😶🙄
+1/18/23, 20:27 - A R Bhardwaj: Bhai hmari  hackathon chal ri mein 9:15 pe free nahi hu😂
+1/18/23, 20:28 - Sam Jain: Iska naam na le 😐😐
+1/18/23, 20:28 - Akash Sawan: sanyam se mail krwaya gya
+ki wo ghr safe pohoch gya 😂
+1/18/23, 20:29 - Sam Jain: Mail ni phone pe confirmation aur Li h🥲
+1/18/23, 20:30 - A R Bhardwaj: Bhai aap single aise ho ya kisi aur ke saath bhi hua hai
+1/18/23, 20:31 - Sam Jain: Bhai m single piece hu duniya m🤣
+1/19/23, 09:17 - Anilansh Verma: all of you please reach and join the session at 9:15AM in F1 block Seminar Hall
+1/19/23, 09:18 - Anilansh Verma: Kon kon hqi campus me???
+1/19/23, 09:34 - Yash Deo: This message was deleted
+1/19/23, 11:05 - Sam Jain: 9:17 pe msg aata ki 9:30 pe event h🙂 just amity things
+1/19/23, 11:24 - +91 81786 96334: <Media omitted>
+1/19/23, 14:17 - Subham Amity: Kab tak baithna hai idhar?
+1/19/23, 14:27 - Arunya Goojar: I think till we die of boredom.
+1/19/23, 14:30 - Yash Deo: Abhi tak nhi marey? Meri to maut ho chuki boredom se
+1/19/23, 14:32 - Sam Jain: Meri soul MSG kr ri h☠️
+1/19/23, 14:38 - Sam Jain: <Media omitted>
+1/19/23, 14:38 - Sam Jain: @918700724913 Bhai kapde kese badal gye☠️
+1/19/23, 14:39 - Yash Deo: Part of the new update
+1/19/23, 14:39 - Sam Jain: Itni jaldi toh Apple patches ni nikaalta jitna jaldi ye apna patch nikaal rha h🤣
+1/19/23, 14:39 - Arunya Goojar: Hn bas kapde hi questionable h .
+1/19/23, 14:40 - Yash Deo: Cybercup mein issi project mein to kaam kar rhey they bro
+1/19/23, 14:40 - Sam Jain: Banda toh kya pta sir ko dekh k plastic surgery kra Li ho🤣
+1/19/23, 14:40 - Sam Jain: Tabhi m sochu vaibhav gayab kyu tha ab smjh aaya update ho chuka tha👀
+1/19/23, 14:40 - Vaibhav Choudhary: Bhai attendance dilwa do kaise bhi
+1/19/23, 14:41 - Sam Jain: Humari nhi mil rhi Bhai tujhe kya dilwaye🥲
+1/19/23, 14:41 - Vaibhav Choudhary: Bhai kisi bgal Wale ko leja bol vaibhav hh sir se milwade
+1/19/23, 14:41 - Sam Jain: Bagal waale ki photo ko vaibhav bna chuka h tu🤣
+1/19/23, 14:44 - shubhradeep 2: identity theft is not a joke jim
+1/19/23, 14:44 - Arunya Goojar: null
+1/19/23, 14:46 - Yash Deo: Ye gamla kyu de rhey hai?
+1/19/23, 14:47 - Sam Jain: Award khtm ho gye shyd isliye 🤣
+1/19/23, 15:02 - Parth Verma: Millions of families suffer every year
+1/19/23, 15:21 - Yash Deo: *millions of adarsh suffer every year
+1/19/23, 15:33 - Arunya Goojar: <Media omitted>
+1/19/23, 15:33 - Sam Jain: <Media omitted>
+1/19/23, 15:34 - Sam Jain: @918700724913 bhai sir ko kehde I'm speaking 🤣
+1/20/23, 10:33 - Your security code with Arunya Goojar changed. Tap to learn more.
+1/20/23, 12:00 - Your security code with Arunya Goojar changed. Tap to learn more.
+1/20/23, 13:06 - Rehan Khan (CR): AWS Wale students apna names likhdo yahaan pe
+1/20/23, 13:07 - Sam Jain: Sanyam kochar
+A2345920021
+1/20/23, 13:07 - Parth Verma: Parth Verma
+A2345920072
+1/20/23, 13:07 - KARANVEER SINGH: KARANVEER SINGH
+A2345920046
+1/20/23, 13:08 - Arunya Goojar: Arunya Goojar , A2345920051
+1/20/23, 13:08 - VASU LAKHANI: VASU LAKHANI 
+A2345920049
+1/20/23, 13:08 - +91 97855 50263: Mahim Bhardwaj
+A2345920052
+1/20/23, 13:08 - Sahil Chauhan: Sahil Rajput
+A2345920005
+1/20/23, 13:09 - Pranay Mehra: Pranay Mehra
+A2345920056
+1/20/23, 13:09 - Rehan Khan (CR): E2 Wale bhi
+1/20/23, 13:10 - Daniyal Deen: Daniyal Deen
+A2345920028
+1/20/23, 13:10 - Saksham Mittal: Saksham Mittal
+A2345920075
+1/20/23, 13:11 - Dharmendra Chauhan: Dharmendra Chauhan
+A2345920074
+1/20/23, 13:14 - +91 82879 91339: Kritika Singh
+A2345920019
+1/20/23, 13:14 - +91 99536 97085: bhumi goyal 
+A2345920004
+1/20/23, 13:14 - +91 95405 76127: Hardik Sharma
+A2345920060
+1/20/23, 13:15 - +91 83838 51924: Amit Pathak
+A2345920068
+1/20/23, 13:17 - Akash Sawan: Akash Sawan
+A2345920045
+1/20/23, 13:58 - +91 93102 84364: Anuj Kumar Singh
+A2345920057
+1/20/23, 14:01 - Daksh Sati: Daksh Sati
+A2345920053
+1/20/23, 14:06 - Abhishek Raizada 2: Those who are present in pdf check your SKE attendance
+1/20/23, 14:29 - +91 74549 40509: Daksh Trivedi 
+A023109520009
+1/20/23, 14:29 - +91 74549 40509: Still marked as absent
+1/20/23, 14:51 - +91 70236 90536: Dheeraj Kumar attri A2345920089
+1/20/23, 14:52 - +91 88263 03340: Akshat Garg 
+A2345920082
+1/22/23, 13:11 - +91 99536 97085: 📌 *Placement Opportunities*
+
+Welcoming all recent and upcoming graduates for certification program. Join the below official group to get in touch with Industry Professionals who will help you kickstart your career.
+
+https://chat.whatsapp.com/BD9t5ZPhfOWGhEAscyb6au
+
+*NOTE*•: You can successfully submit the *Project Completion Certificates* in your college to gain some credit’s to upgrade your CGPA drastically & can also get Pre-Placement offer before graduation.
+1/22/23, 13:12 - +91 95405 76127: This message was deleted
+1/22/23, 13:13 - +91 97178 75714: This message was deleted
+1/22/23, 13:13 - +91 83838 51924: This message was deleted
+1/22/23, 13:17 - Sahil Chauhan: This message was deleted
+1/22/23, 13:18 - +91 84489 25136: This message was deleted
+1/22/23, 13:37 - Divyajeet S. Raj Purohit: This message was deleted
+1/23/23, 08:57 - Rehan Khan (CR): This message was deleted
+1/23/23, 08:57 - Rehan Khan (CR): This message was deleted
+1/23/23, 08:57 - Rehan Khan (CR): This message was deleted
+1/23/23, 16:29 - Anilansh Verma: <Media omitted>
+1/23/23, 16:36 - Ishan Vijay: <Media omitted>
+1/24/23, 05:33 - Your security code with shubhradeep 2 changed. Tap to learn more.
+1/24/23, 05:33 - Your security code with Arunya Goojar changed. Tap to learn more.
+1/24/23, 14:32 - Ishan Vijay: This message was deleted
+1/24/23, 14:33 - Ishan Vijay: This message was deleted
+1/24/23, 14:33 - +91 98101 03252: This message was deleted
+1/24/23, 14:35 - Yash Deo: 🚫 *This message was deleted*
+1/24/23, 15:37 - Subham Amity: AI lab me kich ho raha hai?
+1/24/23, 15:39 - Aditya Vaishnav: Nah
+1/24/23, 15:52 - Yash Deo: Ye
+1/29/23, 15:05 - Your security code with Priyansh Chauhan changed. Tap to learn more.
+1/29/23, 15:12 - Your security code with Priyansh Chauhan changed. Tap to learn more.
+1/30/23, 07:23 - Your security code with Arunya Goojar changed. Tap to learn more.
+1/30/23, 10:17 - Parth Verma: Kisi ka time table show ho raha hai aaj ka?
+1/30/23, 10:17 - Parth Verma: Classes hai bhi ya nahi
+1/30/23, 10:25 - Sam Jain: Pata ni Bhai uda hua h pura TT
+1/30/23, 11:10 - Ishan Vijay: May be some fault in Amizone
+1/30/23, 11:10 - Sam Jain: Friday se yhi fault h kya
+1/30/23, 15:35 - Divyajeet S. Raj Purohit: 💀
+1/30/23, 17:26 - Vaibhav Choudhary: This message was deleted
+2/1/23, 13:29 - Divyajeet S. Raj Purohit: <Media omitted>
+2/1/23, 13:29 - Akash Sawan: This message was deleted
+2/1/23, 13:29 - Divyajeet S. Raj Purohit: Jo bhi apply Krna chahta hai, wo apply kr do amizone pe
+2/1/23, 13:30 - Divyajeet S. Raj Purohit: Aaj last date hai
+2/1/23, 14:34 - Vaibhav Choudhary: <Media omitted>
+2/1/23, 14:35 - Sam Jain: That's why we call it engineering 😂
+2/1/23, 14:54 - Vaibhav Choudhary changed this group's icon
+2/1/23, 15:01 - Muskan ( CR ): AI lecture from 5-6 is cancelled today
+2/1/23, 15:01 - Arunya Goojar: Ye toh sticker content h 😂
+2/1/23, 15:03 - Yash Deo: W pfp
+2/1/23, 15:06 - Sam Jain: <Media omitted>
+2/1/23, 15:13 - Ishan Vijay: Kabhi hua bhi hai 😑 😂
+2/1/23, 15:20 - Sam Jain: Hoti toh h bhai cancel toh hum krate h
+2/1/23, 16:06 - +91 88263 03340: Good
+2/1/23, 18:41 - Arunya Goojar: <Media omitted>
+2/1/23, 19:10 - Ishan Vijay changed the subject from "5CSE1-Eve Unofficial 🎓" to "6CSE1-Eve Unofficial 🎓"
+2/1/23, 19:32 - Arunya Goojar: <Media omitted>
+2/1/23, 19:32 - Sam Jain: Op🤣🤣
+2/1/23, 21:06 - Your security code with Arunya Goojar changed. Tap to learn more.
+2/2/23, 15:40 - Vaibhav Choudhary: This message was deleted
+2/2/23, 15:40 - Vaibhav Choudhary changed this group's icon
+2/2/23, 15:48 - KARANVEER SINGH changed the group description
+2/2/23, 15:48 - KARANVEER SINGH deleted this group's icon
+2/2/23, 15:48 - KARANVEER SINGH changed this group's icon
+2/2/23, 15:51 - KARANVEER SINGH changed the group description
+2/2/23, 16:01 - Ashish Singh: <Media omitted>
+2/2/23, 16:09 - Arunya Goojar: I don't want to learn it then
+2/2/23, 16:21 - KARANVEER SINGH deleted this group's icon
+2/2/23, 17:34 - Anilansh Verma: <Media omitted>
+2/2/23, 17:34 - Anilansh Verma: This message was deleted
+2/4/23, 19:18 - Shivansh: https://www.overleaf.com/gallery/tagged/cv
+2/5/23, 18:22 - Anilansh Verma: Basic 7-day long *FRONTEND WEB DEVELOPMENT USING JAVASCRIPT AND REACT JS| FREE BOOTCAMP*
+
+*No Prerequisite required*
+
+*You will learn:*
+1.  Introduction to front end web development 
+2. Basics of javascript
+3. Intro to react js
+4. Using reactjs to create a project
+*Certificates are provided by DevTown , Google and Microsoft at the end for free*
+
+*REGISTER NOW!!* https://forms.gle/xTXH1qpHgiaSKnqF8
+
+Join Bootcamp WhatsApp Community : https://chat.whatsapp.com/LJjzUGqn8Q23HnNuR0g6Kp
+2/5/23, 18:22 - Anilansh Verma: <Media omitted>
+2/5/23, 23:36 - Parth Verma: Trilogy ki internship opportunity aa rakhi hai amizone
+2/5/23, 23:36 - Parth Verma: pe
+2/5/23, 23:36 - Parth Verma: Kardo apply
+2/6/23, 15:06 - Arunya Goojar: Basic 7-day long *FRONTEND WEB DEVELOPMENT USING JAVASCRIPT AND REACT JS| FREE BOOTCAMP*
+
+*No Prerequisite required*
+
+*You will learn:*
+1.  Introduction to front end web development 
+2. Basics of javascript
+3. Intro to react js
+4. Using reactjs to create a project
+*Certificates are provided by DevTown , Google and Microsoft at the end for free*
+
+*REGISTER NOW!!* https://forms.gle/xTXH1qpHgiaSKnqF8
+
+Join Bootcamp WhatsApp Community : https://chat.whatsapp.com/LJjzUGqn8Q23HnNuR0g6Kp
+2/6/23, 15:06 - Arunya Goojar: <Media omitted>
+2/6/23, 20:40 - +91 93102 84364: Basic 7-day long *FRONTEND WEB DEVELOPMENT USING JAVASCRIPT AND REACT JS| FREE BOOTCAMP*
+
+*No Prerequisite required*
+
+*You will learn:*
+1.  Introduction to front end web development 
+2. Basics of javascript
+3. Intro to react js
+4. Using reactjs to create a project
+*Certificates are provided by DevTown , Google and Microsoft at the end for free*
+
+*REGISTER NOW!!* https://forms.gle/xTXH1qpHgiaSKnqF8
+
+Join Bootcamp WhatsApp Community : https://chat.whatsapp.com/LJjzUGqn8Q23HnNuR0g6Kp
+2/6/23, 20:40 - +91 93102 84364: <Media omitted>
+2/6/23, 21:14 - +91 99536 97085: <Media omitted>
+2/6/23, 21:14 - +91 99536 97085: Basic 7-day long *FRONTEND WEB DEVELOPMENT USING JAVASCRIPT AND REACT JS| FREE BOOTCAMP*
+
+*No Prerequisite required*
+
+*You will learn:*
+1.  Introduction to front end web development 
+2. Basics of javascript
+3. Intro to react js
+4. Using reactjs to create a project
+*Certificates are provided by DevTown , Google and Microsoft at the end for free*
+
+*REGISTER NOW!!* https://forms.gle/xTXH1qpHgiaSKnqF8
+
+Join Bootcamp WhatsApp Community : https://chat.whatsapp.com/LJjzUGqn8Q23HnNuR0g6Kp
+2/6/23, 22:07 - Akash Sawan changed this group's icon
+2/7/23, 09:20 - Parth Verma: “ *What is the use of a house if you haven’t got a tolerable planet to put it on..??.” — Henry Davil Thoreau,* 
+✨💫
+
+In the current age, the issue of the environment and its sustainability represents one of the most critical human concerns that has drawn global attention, generated world-wide.🌎🌳 It is very important to take into account sustainability when thinking in the long term. 🤔But we can still develop ways of reflecting and ways of interrogating ourselves📚 by exchanging our views with those having deviating mindsets, which is possible by having our field of vision manifested to others. 🎁☘
+
+
+Keeping the same thing in mind, Together standing for the Environmental Sustainability, 🎤 *Broadside* 🎤  and ☘ *Green Mortals* ☘of Amity School Of Economics are presenting an Inter-Institute “ 🌸🎙 *X-FACTOR 2.0* 🌸🎙 ” competition on 9th February 2023 to test stage presence, creative brains, innovation and inducing voice with environmentally viable solutions.👩🏻‍🎓🎗 
+
+Event details: 
+Venue:- K-3 Block
+Date:- 9th February 2023
+Time:- 3:00 PM
+
+
+🎓We are very happy to invite you as your presence will make a great difference.🎯🎖
+
+Below is a PDF which entails every detail of the rules and guidelines participants need to comply with.🔖📑
+
+Let your thoughts bring forward without any hesitation, looking forward to your enthusiastic participation.🥰🪄
+
+📲 Link to register:- 
+https://forms.gle/WvNXdiuykAJCS1nd6
+
+
+ For queries and details contact: 
+☎📞
+ANAHITA - 8377009714
+TUSHAAR - 9667836167
+2/7/23, 09:20 - Parth Verma: <Media omitted>
+2/7/23, 09:20 - Parth Verma: <Media omitted>
+2/7/23, 14:44 - +91 96508 83738: This message was deleted
+2/7/23, 14:44 - +91 96508 83738: This message was deleted
+2/8/23, 12:25 - A R Bhardwaj: Come in 308A
+2/9/23, 13:40 - Muskan ( CR ): Kindly come to I2 Moot Court for the event
+2/9/23, 13:40 - Muskan ( CR ): Will start in 15 mins
+2/9/23, 16:16 - +91 99717 98105: bro koi
+2/9/23, 16:16 - +91 99717 98105: class h kya ab
+2/9/23, 16:16 - Subham Amity: No
+2/9/23, 16:16 - +91 99717 98105: okh
+2/9/23, 16:16 - Subham Amity: But khud ke id se mat exit karna
+2/9/23, 16:17 - Rehan Khan (CR): Wait guys merko faculty se confirm karne do ek baar
+2/9/23, 16:17 - Rehan Khan (CR): Abhi call mat Karo mai faculty se baat kar raha hoon
+2/9/23, 16:18 - Rehan Khan (CR): This message was deleted
+2/9/23, 19:04 - Subham Amity: <Media omitted>
+2/9/23, 19:04 - Subham Amity: Shubham raj ,saksham jha and bhagwinder are from CSE and they are not in any group
+2/9/23, 19:06 - Subham Amity: This message was deleted
+2/9/23, 19:08 - Subham Amity: This message was deleted
+2/9/23, 19:15 - Subham Amity: https://chat.whatsapp.com/IoTx7j19wQeCjd3BpASjwo
+2/9/23, 19:15 - Subham Amity: https://chat.whatsapp.com/LqeAKqsJD1OJ0uI6OCwkvo
+2/9/23, 19:15 - Subham Amity: They have to join both groups
+2/9/23, 19:17 - Subham Amity: Those who join the links now but haven't filled the google form earlier should mention their names here.
+2/9/23, 22:17 - Your security code with Vishal (CSE Y Batch) changed. Tap to learn more.
+2/9/23, 22:42 - Your security code with Vishal (CSE Y Batch) changed. Tap to learn more.
+2/10/23, 12:23 - Khushi: https://chat.whatsapp.com/Dfstv72DQTS1KRXeqfBhuA
+2/10/23, 12:23 - Khushi: Join for test Rigor internship opportunity
+2/10/23, 12:31 - Sam Jain: Kya h ye
+2/10/23, 12:32 - Akash Sawan: class kaha h?
+2/10/23, 12:32 - Sam Jain: 311 m aaja
+2/10/23, 12:33 - Sam Jain: This message was deleted
+2/10/23, 12:33 - Sam Jain: This message was deleted
+2/10/23, 12:33 - Sam Jain: This message was deleted
+2/13/23, 09:17 - Muskan ( CR ): Has anyone reached in E2 audi??
+2/13/23, 09:17 - Sam Jain: Reached okhla😂
+2/13/23, 09:20 - Yash Deo: also reached okhla
+2/13/23, 09:20 - Yash Deo: ...nsic
+2/13/23, 10:01 - Yash Deo: Koi E2 Audi pohocha?
+2/13/23, 10:01 - Parth Verma: Sab pohoch gaye
+2/13/23, 10:39 - Divyajeet S. Raj Purohit changed this group's icon
+2/13/23, 11:07 - Sarthak Mishra: https://forms.office.com/Pages/ResponsePage.aspx?id=dqBGjZPQbUGle4aSzeE7-MWaLFsI3oxAoQXZ-AdiRaBUOUE5OFNLVjZFUzlZWk5IVlNDRUc1MFFPNi4u&origin=QRCode
+2/13/23, 11:08 - +91 88263 03340: Bhai ye kya hai
+2/13/23, 11:08 - Sarthak Mishra: Fill krna
+2/13/23, 11:08 - Sarthak Mishra: Abhi Audi me show hua tha QR
+2/13/23, 11:09 - +91 88263 03340: Ok bhai
+2/13/23, 11:11 - Divyajeet S. Raj Purohit: @918860569399
+2/13/23, 12:18 - Sarthak Mishra: https://docs.google.com/forms/d/e/1FAIpQLSfJE5TCkee_gGdN6CvWSNm1mf1Cviy9eKkjnrkuWDtIpFd4ww/viewform?vc=0&c=0&w=1&flr=0
+2/13/23, 12:27 - +91 88263 03340: Bhai saare forms bhej diyo
+2/13/23, 17:04 - Yash Deo: I will take CC class from 5-6 today
+2/13/23, 17:04 - Sam Jain: Wtf 🙂
+2/13/23, 17:04 - Yash Deo: Chalo wopas 🥲
+2/13/23, 17:04 - Yash Deo: @917550771958 help
+2/13/23, 17:05 - Rehan Khan (CR): This message was deleted
+2/13/23, 17:05 - Rehan Khan (CR): This message was deleted
+2/13/23, 17:05 - Rehan Khan (CR): This message was deleted
+2/13/23, 17:05 - Rehan Khan (CR): This message was deleted
+2/13/23, 17:09 - Sam Jain: Okay🥹🥹
+2/13/23, 17:13 - A R Bhardwaj: Mein to Ghar aa gaya
+2/13/23, 17:59 - +91 60003 68951: Rehan bhai tumhi ho akhri ummed aab
+2/13/23, 22:13 - Ashish Singh: https://docs.google.com/forms/d/e/1FAIpQLSeo3Ec1hA47g_ECOxURfjqqDIyW_WU0k93VVDjFskson64V4Q/viewform
+*_The time we all had been waiting for is finally here!!!_* 🥳
+
+Get ready for *G20 SAHASTAM Techfest 2023* at Gautam Buddha University, taking place from *16th to 19th February 2023!!!*
+
+GBU's annual techfest comes in a new avatar, promoting India's Presidency at G20 Summit.🇮🇳
+
+Themed around India's moto of *Vasudhaiva Kutumbakam* or *One Earth, One Family, One Future*, we plan to promote India's technology manufacturing industry while providing a platform for individuals from diverse backgrounds to showcase their technical abilities.
+
+
+GBU’s interdisciplinary atmosphere is mirrored across the Schools in this Techfest ! 
+*G20 Sahastam has Something for Everyone!* 
+
+Invoke the champion inside you, and participate in these amazing events at Sahastam:
+
+✳️48-hour Tech Challenge Hackathon
+✳️Knit The Web
+✳️Drone Race
+✳️Tech MUN
+✳️Tech Exhibition
+✳️Building Design
+✳️eSports tournaments
+✳️Code The Fun
+✳️Tech Congress
+✳️Boot Camp
+✳️ *_Sahastam Epiphany with DJ Novlik and DJ Naktan_*
+✳️ *_Stand Up Night with Appurv Gupta_*
+
+....and much more!
+
+Additionally, there will be various other events from various domains like *Electronic Engineering, Architecture, and Web Development along with fun activities like Quizzes, Nukkad Natak, Face Painting, etc.*
+
+We cordially invite all of you to participate in this exciting event and showcase your tech skills through a range of activities. 
+
+For more information on event dates and registration details, please our official website @ sahastamgbu.in
+
+*The Bigger, Bolder and Better than ever G20 Sahastam Techfest is coming your way!!!*🤘🏻
+https://docs.google.com/forms/d/e/1FAIpQLSeo3Ec1hA47g_ECOxURfjqqDIyW_WU0k93VVDjFskson64V4Q/viewform
+2/13/23, 22:14 - Ashish Singh: <Media omitted>
+2/13/23, 22:14 - Ashish Singh: GBU me 16-18 ko Techfest hai, koi interested hai to form bharke jaa sakta h
+2/14/23, 08:48 - shubhradeep 2: SE me sabki absent lagi hai?
+2/14/23, 08:50 - Sahil Chauhan: Haan
+2/14/23, 09:20 - Akash Sawan: present h🙄
+2/14/23, 10:03 - Sam Jain: Present h 😎
+2/14/23, 10:04 - Sahil Chauhan: 4-5 wali class me?
+2/14/23, 10:04 - Sam Jain: Sab m present h
+2/14/23, 10:04 - Sahil Chauhan: Bhai meri to absent h 4-5 wali me
+2/14/23, 10:05 - Sam Jain: Aaj baat kar Lena present lga degi
+2/14/23, 10:23 - Anilansh Verma: Absent laga rakhi hai maam ne
+2/14/23, 10:24 - Sahil Chauhan: This message was deleted
+2/14/23, 10:25 - Sahil Chauhan: Kis kiski absent marked h abhi?
+2/14/23, 10:30 - shubhradeep 2: she said , “ it is showing disabled” cannot mark.
+2/14/23, 10:30 - Sahil Chauhan: To campus me jakr hogi kya mark?
+2/14/23, 10:30 - shubhradeep 2: pata nahi
+2/14/23, 10:30 - shubhradeep 2: me toh jaunga nahi aaj
+2/14/23, 10:31 - Sahil Chauhan: Mtlb disable kaise? 
+Jaise not i campus wala disable hota h waise?
+2/14/23, 10:31 - shubhradeep 2: vese bhi . jab baki sabki subs ki mark hui hai toh isme patanhi kya dikkat hai
+2/14/23, 10:31 - shubhradeep 2: hn
+2/14/23, 10:31 - shubhradeep 2: orange strip
+2/14/23, 10:32 - A R Bhardwaj: I guess jinhone 5 se pehle leave kr di thi campus unki absent lagi hai ma'am ne bola tha 5 pm Tak mark karenge
+2/14/23, 10:33 - shubhradeep 2: brother 5-6 wale me present hai
+2/14/23, 10:48 - Sahil Chauhan: Acha
+2/14/23, 10:48 - Sahil Chauhan: Okhay bro👍🏻
+2/14/23, 11:57 - Yash Deo: <Media omitted>
+2/14/23, 11:58 - Yash Deo: Bhai mein to 40 min late aata class mein 💀
+2/14/23, 12:21 - Ishan Vijay: Mai 50
+2/14/23, 12:21 - Yash Deo: Class mein jau bhi ab 💀
+2/14/23, 12:22 - shubhradeep 2: esa system kahi nahi dekha mene . 👏
+2/14/23, 12:25 - +91 84489 25136: Sabse wahiyat system
+2/14/23, 12:28 - Yash Deo: Only ameethi things
+2/14/23, 12:29 - shubhradeep 2: matlab aake bhi absent lagwa lo
+2/14/23, 12:29 - Yash Deo: Basically
+2/14/23, 12:37 - Sahil Chauhan: Veenu ma’am ka cabin konse room me h?
+2/14/23, 12:41 - Sam Jain: 4th floor m hai enter krte hi left side ka phla cabin
+2/14/23, 13:24 - Yash Deo: This message was deleted
+2/14/23, 13:24 - Yash Deo: This message was deleted
+2/14/23, 21:21 - Shivansh added Akshat Upadhyay (CSE E2)
+2/14/23, 21:39 - Your security code with Arunya Goojar changed. Tap to learn more.
+2/15/23, 02:06 - Muskan ( CR ) added +91 99533 69461
+2/15/23, 07:19 - Your security code with Kamran Khan changed. Tap to learn more.
+2/16/23, 13:18 - A R Bhardwaj: Come in 318
+2/16/23, 16:47 - Kamran Khan: ‎Open this link to join my WhatsApp Group: https://chat.whatsapp.com/E0ZzRhDwAf0JeVZKkJMTZr
+2/16/23, 16:48 - Kamran Khan: Bhai 21st ko protest hai attendence k regarding group join karlo
+2/16/23, 18:07 - Daksh Sati: This message was deleted
+2/16/23, 18:48 - Divyajeet S. Raj Purohit: <Media omitted>
+2/16/23, 19:52 - Your security code with +91 82879 91339 changed. Tap to learn more.
+2/16/23, 20:07 - Sam Jain: <Media omitted>
+2/16/23, 20:08 - Sam Jain: Mt kr Bhai rehne de
+2/16/23, 20:08 - Sam Jain: Faltu m fas jaoge or kuch change ni ho paega
+2/16/23, 20:09 - shubhradeep 2: wohi. last time exam ka kiya tha. didn’t end well for few people
+2/16/23, 20:09 - Sam Jain: Online offline exams waale time bhi toh kitna protest hua tha fir bhi ghnta kuch change nhi hua toh rhne do ye sab timepass mt kro courses or internship krlo
+2/16/23, 20:09 - Sam Jain: Exactly ignore krdo ye sab
+2/16/23, 20:11 - Arunya Goojar: https://timesofindia.indiatimes.com/city/lucknow/amity-students-protest-against-universitys-attendance-rule/articleshow/45903217.cms
+2/16/23, 20:14 - Sam Jain: Dekhlo Bhai suspend hore h bche rhne do
+2/16/23, 20:29 - Priyansh Chauhan: 2015 ka hai article Lucknow campus ka
+2/16/23, 20:56 - Arunya Goojar: Yes , but we can understand how brutal they can be
+2/17/23, 10:01 - +91 99536 97085: aaj 11-12 software engineering ki class hai kya?
+2/17/23, 10:01 - Rehan Khan (CR): Yes
+2/17/23, 22:03 - shubhradeep 2: This message was deleted
+2/17/23, 22:03 - shubhradeep 2: This message was deleted
+2/20/23, 12:34 - Sam Jain: 2-3 kisi ki class hai kya
+2/20/23, 12:34 - Sam Jain: @917550771958 Bhai kon Rakh raha h class🥲
+2/20/23, 12:57 - Rehan Khan (CR): Koi nahi bhai
+2/20/23, 12:57 - Rehan Khan (CR): 😂😂
+2/20/23, 12:57 - Rehan Khan (CR): Chill
+2/20/23, 12:57 - Sam Jain: <Media omitted>
+2/20/23, 12:59 - Rehan Khan (CR): <Media omitted>
+2/20/23, 13:02 - Sam Jain: <Media omitted>
+2/20/23, 16:50 - Yash Deo: *Software Engineering* : Write short notes on requirement elicitation, requirement analysis, process modelling and data modelling
+2/20/23, 16:57 - Vaibhav Choudhary: This message was deleted
+2/22/23, 05:05 - Vaibhav Choudhary: @918383851924 Jake so ja
+2/22/23, 17:55 - Sam Jain: Information about the revision classes of ARA-SKE301  for APAT. 
+
+The class schedule is as follows:
+Saturday Feb 25 and March 4, 2023-
+10am to 11am - Verbal
+11am to 1pm - Quant and LR
+2/22/23, 17:55 - Sam Jain: @917550771958 bhai online h kya?
+2/22/23, 17:55 - Ishan Vijay: This message was deleted
+2/22/23, 17:56 - Ishan Vijay: This message was deleted
+2/22/23, 17:56 - Sam Jain: Nhi h bhai
+2/22/23, 17:56 - Ishan Vijay: Okay 👍
+2/22/23, 17:56 - Sam Jain: Ye koi course thodi h apna ki attendance har jgah lenge😂
+2/22/23, 17:56 - Rehan Khan (CR): Abhi sure nahi hoon bhai mai check karke ek baar bata dunga announcement pe tension not
+2/22/23, 17:57 - Rehan Khan (CR): Waise offline hi hogi
+2/22/23, 17:57 - Rehan Khan (CR): Nops
+2/22/23, 17:57 - Ishan Vijay: Okay 👍 🥲
+2/22/23, 17:57 - Sam Jain: 1 ghnte k liye kon itna Vella h ki college aaega🙂
+2/22/23, 17:57 - Sam Jain: Wo bhi itni subah subah🙂
+2/22/23, 17:57 - Sam Jain: Ye meri expertise toh bilkul nhi h isliye I'm out🙂
+2/22/23, 18:21 - Ishan Vijay: This message was deleted
+2/23/23, 15:53 - Muskan ( CR ): 4-5 class is cancelled today
+2/23/23, 15:53 - Muskan ( CR ): But do stay in the campus only for the attendance or else you'll be marked absent
+2/23/23, 15:58 - Sam Jain: That's on us😂
+2/23/23, 16:00 - Sam Jain: So Jo nahi the moot court me wo khud sir se mil lo ek baar
+2/23/23, 16:00 - Sam Jain: Humne toh present bola tha sir ko
+2/23/23, 16:03 - Ishan Vijay: 4-5 class is cancelled today
+2/23/23, 20:38 - +91 98101 03252: This message was deleted
+2/25/23, 10:38 - Yash Deo: koi file bhejdo
+2/25/23, 10:38 - A R Bhardwaj: can anyone send second one ??
+2/25/23, 10:39 - Akash Sawan: whatsapp group v h kya kuch iska? jaha ma'am file share kr rhi?
+2/25/23, 10:39 - Sam Jain: Ye chal kya Raha h i just joined 😅
+2/25/23, 10:39 - Akash Sawan: questions 🙂
+2/25/23, 10:39 - Sam Jain: Konse
+2/25/23, 10:40 - Akash Sawan: screen pe dekh
+2/25/23, 10:40 - Sam Jain: Toh ye resume kya bol Rahi h
+2/25/23, 10:41 - Prateek: next week kya hoga vo btaya ja rha h
+2/25/23, 10:41 - Sam Jain: Acha
+2/25/23, 12:54 - Sahil Chauhan: Please mark your Attendance and fill the feedback form latest by 1:10 PM toady. for attendance https://forms.office.com/r/MBMDFLYqWV For Feedback -https://forms.office.com/r/XQ0263twAZ
+2/25/23, 12:54 - Sahil Chauhan: Name of the event kya h?
+2/25/23, 12:54 - Sahil Chauhan: Feedback wale form me
+2/25/23, 12:56 - Prateek: the revision classes of ARA-SKE301  for APAT.
+2/25/23, 13:13 - Yash Deo: Wow attendance sheet accept hi ni kar hi response
+2/25/23, 13:13 - Yash Deo: :)
+2/25/23, 13:13 - Subham Kulshrestha: Please mark your Attendance and fill the feedback form latest by 1:10 PM toady. for attendance https://forms.office.com/r/MBMDFLYqWV For Feedback -https://forms.office.com/r/XQ0263twAZ
+2/25/23, 13:13 - Subham Kulshrestha: Only by 1:10
+2/25/23, 13:13 - Ishan Vijay: It should supposed to be submitted at least by 1:10 pm
+2/25/23, 13:13 - Yash Deo: haan padh sakta mein
+2/25/23, 13:14 - Yash Deo: i forgot to check my whatsapp
+2/25/23, 13:14 - Subham Kulshrestha: Good for u
+2/26/23, 12:01 - Anilansh Verma: <Media omitted>
+2/26/23, 12:01 - Arunya Goojar: Same
+2/26/23, 12:01 - Sam Jain: Ye denge 1.5lakh ka package interns ko😂😂
+2/26/23, 12:02 - Sam Jain: Site toh chl nhi rhi inki😮‍💨
+2/26/23, 12:02 - Anilansh Verma: <Media omitted>
+2/26/23, 12:02 - Deepak Singh: same
+2/26/23, 12:02 - Sam Jain: <Media omitted>
+2/26/23, 12:02 - +91 74549 40509: 20 lakh ka betch krke 2 lpa ka package dene ka ghamand h amity ko
+2/26/23, 12:03 - Sam Jain: Raaz 100% placement ka😉
+2/26/23, 12:03 - Anilansh Verma: <Media omitted>
+2/26/23, 12:03 - Sam Jain: Un 100% m na jaane kitne log repeat ho jaate h😅
+2/26/23, 12:03 - +91 74549 40509: Meri society k bhar momo wale ka gross margin jada hoga isse
+2/26/23, 12:03 - Anilansh Verma: <Media omitted>
+2/26/23, 12:04 - Sam Jain: Gross nhi bhai nett bhi ho skta h wo🤫
+2/26/23, 12:04 - Sam Jain: <Media omitted>
+2/26/23, 12:04 - +91 74549 40509: Hn sochra hu wahi internship krlu
+2/26/23, 12:05 - Anilansh Verma: <Media omitted>
+2/26/23, 12:05 - Sam Jain: Mera bhi pta kr lio Bhai inse zyada hi kamaunga or atleast website sahi se chl jae itna toh kama hi lunga😅
+2/26/23, 12:06 - +91 74549 40509: Hn vo 75% attendance ki bheekh bhi na mangega
+2/26/23, 12:06 - +91 74549 40509: Nahi*
+2/26/23, 12:06 - Sam Jain: Or face recognition/ card bhi punch ni kraega😅
+2/26/23, 12:12 - Anilansh Verma: Bhai kisis chale to batana
+2/26/23, 12:13 - Anilansh Verma: Chal gaya dekho
+2/26/23, 12:13 - Sudhanshu Yadav: Haan
+2/26/23, 12:13 - Bhagwinder Singh: Bhai link kahan hai iska
+2/26/23, 12:14 - Arunya Goojar: Email p aya hoga
+2/26/23, 12:14 - Sam Jain: Mera ni chla yrr lgta h zyada bol dia unko😅
+2/26/23, 12:20 - Deepak Singh: maine code karne ke liye c++ select kiga toh please wait, fetching code pe atak gaya hai
+2/26/23, 12:21 - Deepak Singh: firse chala gaya
+2/26/23, 12:22 - Deepak Singh: bhai majaak chalra hai kya
+2/26/23, 12:48 - +91 84489 25136: <Media omitted>
+2/26/23, 12:50 - Bhagwinder Singh: +1
+2/26/23, 12:50 - +91 84489 25136: Refresh mt krna.
+2/26/23, 12:51 - Sudhanshu Yadav: Aab bta rah jab maine kr diya 🥲
+2/26/23, 12:53 - Bhagwinder Singh: Bhai agar dobara open ho toh batana
+2/26/23, 12:54 - +91 84489 25136: Site atak jayegi lekin refresh fir bhi mat krna koi. Apne aap hi hona hoga to thik hoga. Refresh krte hai band hojayega sab.
+2/26/23, 13:05 - Ishan Vijay: Kisi ka code submit bhi hua ?
+2/26/23, 13:08 - Anilansh Verma: <Media omitted>
+2/26/23, 14:03 - Arunya Goojar: ✋
+2/26/23, 14:16 - Ishan Vijay: Good for you then 👍
+2/26/23, 14:40 - Sam Jain: Not good for you also😬
+Competition bdh gya
+2/26/23, 14:42 - Khushi: Tera submit hogaya?
+2/26/23, 14:42 - Sam Jain: Mene kholke bnd kr dia frustration m🙂
+2/26/23, 14:43 - Vaibhav Choudhary: Ha
+2/26/23, 14:43 - Sam Jain: Chlra h fir error aara tha toh mene bnd hi kr dia
+2/26/23, 14:43 - Vaibhav Choudhary: Offer letter bhi aa gya merepe😌
+2/26/23, 14:44 - Sam Jain: Kya kijiyega itni dhanraashi ka🙂
+2/26/23, 14:45 - Vaibhav Choudhary: Kl se hoske to mai college nai aau mujhe office Jana hh
+2/26/23, 14:46 - Sam Jain: Koi ni Bhai attendance 75 se kam ho jaegi fir office waale tujhe khud chhodne aaenge clg😉
+2/26/23, 14:46 - Arunya Goojar: Idc , me toh experience k liea Kia hu ye test
+2/26/23, 14:47 - Sam Jain: Kesa experience? Site crash hone ka?😷
+2/26/23, 14:49 - Arunya Goojar: Hn 😂, mera 15 min bad chal gaya tha fir problem nai ayi
+2/26/23, 14:53 - Sam Jain: Mere zindagi ke 15 minute jo waste hue uske 1.5 lakh maango inse🥹
+2/26/23, 15:03 - Your security code with +91 99717 98105 changed. Tap to learn more.
+2/26/23, 15:05 - Arunya Goojar: <Media omitted>
+2/26/23, 15:23 - Ishan Vijay: This message was deleted
+2/26/23, 15:48 - Sam Jain: <Media omitted>
+2/26/23, 15:48 - Sam Jain: Yrr delete mt kro yrr dekha nhi🥲
+2/26/23, 22:41 - Your security code with +91 97178 75714 changed. Tap to learn more.
+2/27/23, 09:19 - +91 99536 97085: *Amity AI Club* and  *GDSC ,Amity University* are organizing an event on 🚀 *“Web Development: JS and AI Outlook”*🌐
+
+✅ We aim to provide an in-depth hands-on session on JavaScript based Web Development and role of AI in Web 3.0.
+
+✨We also have Certificates for attendees 🤩
+ 
+👩🏻‍💻🧑🏻‍💻 *Mr. Vrijraj Singh*, Tech Lead and Google Developers Expert for Firebase & Web with numerous talks and *Ms. Netra Hirani*, a tactical expert in AI, Buisness Analyst and interning at Brain and Co.
+
+*Details* for the event are ⤵️
+🗓️ *Date*:  _2nd March  2023_ 
+⏰ *Time*:  _2:30 pm onwards_
+📍 *Venue*: TBD
+
+*Register At:* https://forms.gle/hLa6zWY7AYm2C2Lg8
+
+📌 Please ensure that you carry your laptops for the event 
+
+*For More Info, Contact:*
+Himank Varshney: 8373931752
+Pragya Pandey: 6263203173
+2/27/23, 13:35 - Sam Jain: <Media omitted>
+2/27/23, 13:36 - Sam Jain changed this group's icon
+2/27/23, 13:37 - Sam Jain changed this group's icon
+2/27/23, 13:37 - Sam Jain changed the group description
+2/27/23, 13:38 - Parth Verma: Rude banda hai yaar @917550771958 tu
+2/27/23, 13:38 - Sam Jain: Bilkul yrr ye acha nahi kr re Rehan Bhai🥲
+2/27/23, 13:39 - Dharmendra Chauhan: Dede bhai mt kr esa achi baat nhi h ye 😂
+2/27/23, 13:39 - Saksham Mittal: This message was deleted
+2/27/23, 13:39 - Sahil Chauhan: +1
+2/27/23, 13:40 - Sam Jain: #justiceforthatgirl 🥲
+2/27/23, 13:41 - Rehan Khan (CR): Bhai apne kaam se kaam rakho.😡
+Ye mere aur uske beechki ki baat hai
+2/27/23, 13:41 - Kamran Khan: 😂
+2/27/23, 13:41 - Sam Jain: Nahi Bhai ab ye baat humare beech aa gyi ab justice dilwa k rhenge😎
+2/27/23, 13:41 - Ishan Vijay: Going in the good way
+2/27/23, 13:41 - Sam Jain: Ab ye baat aapki or 7bn logo k beech h📈
+2/27/23, 13:42 - Sam Jain: Bhai yaha justice chahiye ldki ko kaha tu Rehan Bhai ki galat baat pe saath dera h😒
+2/27/23, 14:51 - Yash Deo: <Media omitted>
+2/27/23, 14:54 - Sam Jain changed this group's icon
+2/27/23, 14:54 - Yash Deo: Sexy profile picture
+2/27/23, 14:56 - Sam Jain: Amitians se bhra h pura sheher
+@917550771958 bhai ka sticker katayi zeher😎
+2/27/23, 14:57 - Rehan Khan (CR) changed this group's icon
+2/27/23, 15:12 - Vaibhav Choudhary: POLL:
+Isse dp banaye ya nahi
+OPTION: Yes (13 votes)
+OPTION: No (5 votes)
+
+2/27/23, 15:12 - Vaibhav Choudhary: <Media omitted>
+2/27/23, 15:13 - Yash Deo: Bro got the hulk serum 💀
+2/27/23, 15:17 - Sam Jain: Bn gyi Bhai😂
+2/27/23, 16:05 - Yash Deo: This message was deleted
+2/27/23, 17:25 - Nitin Singh: https://www.tutorialspoint.com/construct-the-slr-parsing-table-for-the-following-grammar-also-parse-the-input-string-a-b-plus-a
+2/27/23, 17:28 - Arunya Goojar: This message was deleted
+2/27/23, 17:28 - Arunya Goojar: This message was deleted
+2/27/23, 17:28 - Arunya Goojar: This message was deleted
+2/27/23, 17:28 - Arunya Goojar: This message was deleted
+2/27/23, 17:28 - Arunya Goojar: This message was deleted
+2/27/23, 17:29 - Arunya Goojar: <Media omitted>
+2/27/23, 17:29 - Arunya Goojar: <Media omitted>
+2/27/23, 17:29 - Arunya Goojar: <Media omitted>
+2/27/23, 17:29 - Arunya Goojar: <Media omitted>
+2/27/23, 17:29 - Arunya Goojar: <Media omitted>
+2/27/23, 17:44 - Arunya Goojar: <Media omitted>
+2/27/23, 17:44 - Arunya Goojar: 3rd
+2/27/23, 22:15 - Your security code with Arunya Goojar changed. Tap to learn more.
+2/28/23, 07:27 - Your security code with +91 79884 42475 changed. Tap to learn more.
+2/28/23, 07:27 - Your security code with Arunya Goojar changed. Tap to learn more.
+3/1/23, 17:14 - A R Bhardwaj: Class hai abhi ?
+3/1/23, 19:24 - Ishan Vijay: <Media omitted>
+3/2/23, 12:30 - Yash Deo: Room no kya hai
+3/2/23, 12:30 - Yash Deo: ?
+3/2/23, 12:30 - Aditya Vaishnav: 309
+3/2/23, 13:12 - Subham Amity: Hvco ki class hai?
+3/2/23, 13:27 - Anilansh Verma: Abe tu college a id lele apna
+3/2/23, 13:27 - Anilansh Verma: Kho jayega nhi to!!
+3/2/23, 13:29 - Subham Amity: Im here
+3/2/23, 13:30 - Subham Amity: Where are you
+3/2/23, 19:33 - Sam Jain: @917550771958 Bhai kal subah toh class nahi h na SE ki?
+3/2/23, 19:34 - Rehan Khan (CR): Nahi bhai
+3/2/23, 19:34 - Sam Jain: Okay
+3/3/23, 08:47 - Shivansh: https://youtu.be/zAaqyAY0SC4
+3/3/23, 09:45 - Ishan Vijay: Are you all coming for 11:15 class
+3/3/23, 09:45 - Ishan Vijay: Not Possible
+3/3/23, 09:46 - +91 84495 14233: Maam ko mana kro
+3/3/23, 21:23 - +91 84489 25136: https://forms.gle/eoMcf5B2bdGgLpE8A
+3/3/23, 21:24 - +91 84489 25136: *Hello*
+*GREETINGS FROM SKILLVERTEX*
+
+Available Domains for Industrial Training and Internship Program 
+
+1. CSE / ISE
+2. ECE / EEE
+3. MECH / AUTOMOBILE
+4. CIVIL / ARCHITECTURE
+5. MANAGEMENT
+
+*Fill the form to grab the opportunity*👇👇👇
+
+https://forms.gle/eoMcf5B2bdGgLpE8A
+
+Referal code-  *SUM03*
+3/4/23, 12:42 - Prateek: Koi attendance form ka link bhej do
+3/4/23, 13:04 - Priyansh Chauhan: Dear Students, Please mark your Attendance and fill the feedback form latest by 1:15 PM today. Attendance - https://forms.office.com/r/bCLpMVn3Bt Feedback Form - https://forms.office.com/r/20fyHRTiJi
+3/6/23, 10:53 - +91 74549 40509: please report me at 11:15Am for CC class today
+3/6/23, 10:54 - +91 74549 40509: Ye kya time hota h batane ka ki class h
+3/6/23, 10:54 - Sam Jain: Bhai last class m bola tha isne
+3/6/23, 10:54 - Sam Jain: Abhi mt bolio vrna firse kahega "Tune daaru pi h?" 😂😂
+3/6/23, 10:55 - +91 74549 40509: 🤦‍♂️
+3/6/23, 10:56 - Sam Jain: Koi ni Bhai aaja m bhi late hi aara hu😂
+3/6/23, 10:56 - Akash Sawan: wahi toh
+3/6/23, 10:56 - Sam Jain: Tu pata na hoke late aaega m toh jaante hue late aara hu😂
+3/6/23, 10:56 - Akash Sawan: aadhe ghnte pehle bol rhe ki aajao
+3/6/23, 10:56 - Sam Jain: Tune daaru pi h?😒
+3/6/23, 10:57 - +91 74549 40509: Mene toh pi h
+3/6/23, 10:57 - Sam Jain: Mere liye bhi le aaio😂
+3/6/23, 10:57 - Akash Sawan: le aa pi lunga
+3/6/23, 10:57 - +91 74549 40509: hangxiety hori h
+3/6/23, 10:57 - Akash Sawan: officially bolna hota h kuch
+3/6/23, 10:58 - Sam Jain: Koi ni ek baar sir k saamne khda hoja hangxiety ka pta ni lekin hang ho jaega ye sure hu😜
+3/6/23, 10:58 - Akash Sawan: boycott kro 11:15 waali class ko
+3/6/23, 10:58 - Sam Jain: Class m bola tha usne confirm
+3/6/23, 10:58 - Sam Jain: Saale tujhe boycott kr dega wo class se
+3/6/23, 10:58 - +91 74549 40509: Announcement daal dia kro
+3/6/23, 10:58 - Subham Kulshrestha: Mein toh aa gya college
+3/6/23, 10:58 - Akash Sawan: officially mtlb rehan se mssg krwa kr
+3/6/23, 10:59 - Sam Jain: Or saale tu toh pg rhta h tujhe toh 2 min bhi nhi lgta aane m kyu ro ra h😒
+3/6/23, 10:59 - Akash Sawan: wah💀
+3/6/23, 10:59 - +91 74549 40509: Uski normal batein smjh ati nahi ye kese aye gi
+3/6/23, 10:59 - Subham Kulshrestha: Yes🙂
+3/6/23, 10:59 - Sam Jain: Koi ni Bhai aaja keh dio absent tha last class m😂
+3/6/23, 11:00 - Akash Sawan: bhai pure class ki proxy lga diyo
+3/6/23, 11:00 - Sam Jain: Us moment🥲
+3/6/23, 11:01 - +91 74549 40509: Hn
+3/6/23, 11:01 - Sam Jain: Face recognition k liye gardan kaat ke Dede fir🙂
+3/6/23, 11:01 - Subham Kulshrestha: Abhi pta toh chla hogi bhi ya nahi
+3/6/23, 11:01 - Akash Sawan: shedule nhi hui h class🙂
+3/6/23, 11:01 - +91 74549 40509: Class toh schedule hi nahi h
+3/6/23, 11:01 - Sam Jain: Bhai konsa pdhaega class m aake hona na hona ek hi baat u
+3/6/23, 11:01 - Akash Sawan: woh shaam waali class me attendance lgayega
+3/6/23, 11:01 - Sam Jain: Cabin m jaake lgwa Lena
+3/6/23, 11:01 - +91 74549 40509: Ye 5-6 wali class phle lera h ig
+3/6/23, 11:01 - Sam Jain: Haa
+3/6/23, 11:01 - Sam Jain: Us se ruka ni jaata bechare ko ghr ki yaad aa jati h😂
+3/6/23, 11:06 - Muskan ( CR ): Sir se baat ho gyi h
+3/6/23, 11:06 - Muskan ( CR ): He said kl rkh lena extra class 11-12
+3/6/23, 11:06 - Muskan ( CR ): For CC
+3/6/23, 11:07 - Subham Kulshrestha: Noice😶
+3/6/23, 11:09 - +91 74549 40509: <Media omitted>
+3/6/23, 11:09 - A R Bhardwaj: Kitni late baat Hui hai yaar mein 312 ke aa gaya😅
+3/6/23, 11:10 - Sam Jain: Je baat🤣🤣
+3/6/23, 22:50 - Sam Jain: null
+3/6/23, 22:52 - Parth Verma: Yehi ayi thi kya resume writing vale event mein?
+3/6/23, 22:52 - Sam Jain: Or haa mene koi stalk nhi kia feed pe apne aap aa gya tha😅
+3/6/23, 22:52 - Sam Jain: Haa bhai😂
+3/6/23, 22:52 - Sam Jain: Iske jitna confidence mujhe chahiye life m 😂
+3/6/23, 22:52 - A R Bhardwaj: Agar ye na hoti to aaj mein resume ni bana pata😂
+3/6/23, 22:53 - Sam Jain: Or m ye screen shot share ni kr paata😅
+3/6/23, 22:54 - A R Bhardwaj: Inki confidence ky kahu ab😂
+3/6/23, 22:54 - Dharmendra Chauhan: Tu isi ki wajah se wha 1 ghanta betha tha koi aur hota to tu bethta bhi nhi 😂😜😜
+3/6/23, 22:55 - Sam Jain: <Media omitted>
+3/7/23, 11:01 - Sahil Chauhan: Class konse room me h?
+3/7/23, 11:01 - Bhagwinder Singh: 303A
+3/7/23, 11:31 - +91 74549 40509: ??
+3/7/23, 13:33 - Ishan Vijay: This message was deleted
+3/7/23, 13:33 - Ishan Vijay: This message was deleted
+3/7/23, 13:33 - Ishan Vijay: This message was deleted
+3/9/23, 10:13 - Daniyal Deen joined using this group's invite link
+3/9/23, 16:24 - Shivansh: Do you know about these in-person events happening this month? Make sure to register for them:
+
+1. GitHub Career Fair
+https://lu.ma/github-cf-delhi
+
+2. International Women's Day (More seats reserved for Women and LGBTQ+ audience)
+https://www.commudle.com/communities/wtm-new-delhi/events/iwd-delhi-ncr
+
+3. GFG Amity Coding Event
+https://lu.ma/amicode
+
+4. GDSC WoW Delhi NCR 
+https://www.commudle.com/communities/gdsc-wow-delhi-ncr/events/gdsc-wow-delhi-ncr
+
+5. Data Science Meetup https://www.commudle.com/communities/gdg-noida/events/data-science-meetup
+
+*JOIN GDSC AMITY UNIVERSITY NOIDA TO KNOW MORE -* linktr.ee/gdscamity
+3/9/23, 22:29 - Sahil Chauhan: This message was deleted
+3/10/23, 14:13 - Yash Deo: Sab E2 Audi mein aajao
+3/10/23, 16:23 - KARANVEER SINGH: <Media omitted>
+3/10/23, 16:26 - VASU LAKHANI: This message was deleted
+3/10/23, 16:27 - KARANVEER SINGH: This message was deleted
+3/10/23, 17:33 - Sarthak Mishra: https://docs.google.com/forms/u/0/d/e/1FAIpQLSd72lG_rYsKaKIVTcmoSgmdBnocYyAUj4ZIlEiKFfQZwarD-A/formResponse
+3/12/23, 09:37 - Shivansh: https://youtu.be/5uhmS8nzxM4
+3/12/23, 10:20 - Your security code with shubhradeep 2 changed. Tap to learn more.
+3/12/23, 20:58 - Parth Verma: We need your assistance as we attempt to determine the alterations in our educational patterns!
+
+*3 minutes* of your time would have a significant impact on our study.
+
+https://forms.gle/XugbpH7qApDjBEjZ6
+3/12/23, 20:58 - Parth Verma: Jisse padhayi likhayi na hori ho
+3/12/23, 20:58 - Parth Verma: And thoda time ho to bhar do
+3/14/23, 13:12 - The Robotron: SIR ROSHAN LAL WILL NOT TAKE COMPILER LAB TODAY
+
+BUT ATTENDANCE WILL BE MARKED THOSE WHO WILL BE PRESENT IN THE CAMPUS.
+3/14/23, 13:34 - The Robotron: FOR SE CLASS, YOU HAVE TO BE THERE IN THE CLASS
+IT WILL BE ONLY FOR 10-15 MINS
+3/14/23, 13:37 - Sam Jain: Bhai usko keh de na abhi lelo class 5-10 min m attendance lga dena
+3/14/23, 13:37 - Ishan Vijay: From where you are getting these messages
+3/14/23, 13:39 - Sam Jain: Source-: Trust me bro😂
+3/14/23, 13:39 - Ishan Vijay: Okay Sanyam's Gaurantee
+3/14/23, 13:40 - The Robotron: Most importantly you have to be in the clads
+3/14/23, 13:40 - The Robotron: *class
+3/14/23, 13:40 - The Robotron: Robo's too
+3/14/23, 13:40 - Sam Jain: Merese kya obsession h bhai😂
+3/14/23, 13:41 - Sam Jain: Kuch bhi hoga toh sanyam thdi hoga grow up man🥲
+3/14/23, 14:04 - shubhradeep 2: Baat toh sahi hai. Kon convince karega.
+3/14/23, 14:05 - Akash Sawan: @917303886664
+3/14/23, 14:05 - shubhradeep 2: This message was deleted
+3/14/23, 14:25 - The Robotron: Who is present in the campus?
+3/14/23, 14:25 - The Robotron: Like physically present?
+3/15/23, 10:59 - Shivansh: <Media omitted>
+3/15/23, 13:51 - Deepak Singh: kidhar hai paper?
+3/15/23, 13:52 - Parth Verma: Bata do bhai
+3/15/23, 13:54 - A R Bhardwaj: <Media omitted>
+3/15/23, 18:43 - Parth Verma: APAT ka registration kaha se hoga?
+3/15/23, 18:43 - Yash Deo: ATPC Placement>Corporate Event Registration
+3/15/23, 18:44 - Yash Deo: <Media omitted>
+3/15/23, 18:46 - Parth Verma: Okay thanks
+3/15/23, 18:46 - Yash Deo: np
+3/15/23, 22:04 - Your security code with +91 95823 94725 changed. Tap to learn more.
+3/15/23, 22:24 - Your security code with +91 95823 94725 changed. Tap to learn more.
+3/16/23, 04:17 - +91 99717 98105: aaj koi minor h kya ?
+3/16/23, 04:38 - Akash Sawan: software engineering
+3/16/23, 04:41 - +91 99717 98105: okh bro
+3/16/23, 04:41 - +91 99717 98105: thanks
+3/16/23, 08:36 - A R Bhardwaj: <Media omitted>
+3/16/23, 17:22 - Sahil Chauhan: Ppt wagera available hai kya kahi pe ya kisi ke pass ho to send krdo
+3/16/23, 17:25 - Arunya Goojar: <Media omitted>
+3/16/23, 17:25 - Arunya Goojar: <Media omitted>
+3/16/23, 17:25 - Arunya Goojar: <Media omitted>
+3/16/23, 17:25 - Arunya Goojar: <Media omitted>
+3/16/23, 17:32 - Yash Deo: Thanks
+3/17/23, 20:25 - Your security code with +91 95823 94725 changed. Tap to learn more.
+3/18/23, 17:15 - Your security code with KARANVEER SINGH changed. Tap to learn more.
+3/20/23, 09:16 - Ishan Vijay: CC lecture tomorrow morning from 11-12
+3/20/23, 09:17 - Ishan Vijay: This lecture is not published yet
+3/20/23, 09:18 - KARANVEER SINGH: @917550771958 
+Bhai aaj cc ki hai ya nhi?
+3/20/23, 09:33 - Ishan Vijay: @917550771958 @918368854079 , it's my humble request to give notification about extra classes only after when they are published on Amizone .
+3/20/23, 10:18 - Ishan Vijay: But now it is published
+3/20/23, 10:54 - Sam Jain: Is se fark ni pdta Bhai published h ki nahi ab bataya h toh hogi hi class or har baat pe CRs ko bolne ka koi mtlb nhi
+3/20/23, 10:55 - Sam Jain: Unka kaam hume information Dena h wo unhone de dia aage tum aare ho ki nahi wo unka issue nahi
+3/20/23, 10:56 - Ishan Vijay: Bro I need to decide prior to 2 hours before beginning of class
+3/20/23, 10:56 - Parth Verma: <Media omitted>
+3/20/23, 10:56 - Sam Jain: Kal raat btaya tha bhai extra class ka 2 ghnte hue nhi kya abhi tk?
+3/20/23, 10:57 - Sam Jain: Aur itna issue h toh PL ko bolo wo class schedule krta h har baat pe CRs ko bolke koi fayda nahi
+3/20/23, 11:31 - Ishan Vijay: Bhai ye bhi CR hi karenge. Unki responsibility hai PL sir se baat karna
+3/20/23, 11:31 - Ishan Vijay: Aur class time pe schedule karana
+3/20/23, 11:32 - Ishan Vijay: .
+3/20/23, 11:32 - Sam Jain: Acha aur humara kaam kya h? CR ki galti nikaalna har kaam m? Ek toh yaad dilao tumhe ki class h fir na aao class m toh CR pe naam daaldo ki btaya nahi
+3/20/23, 11:32 - Sam Jain: Sahi hypocrisy h bhai
+3/20/23, 11:33 - Sam Jain: Bhai sir last class m bole the ki class hogi toh kya jb class publish hogi tbhi aaoge?
+3/20/23, 11:33 - Ishan Vijay: .
+3/20/23, 11:34 - Sam Jain: Bol Bhai? Ab kya class publish hogi tbhi aaoge?
+3/20/23, 11:34 - Sam Jain: Extra class ka mtlb yhi hota h na ki pdhai hogi
+3/20/23, 11:34 - Sam Jain: Agar pdhna hoga toh Bina class publish hue bhi aa jaoge
+3/20/23, 13:07 - Anilansh Verma: if anyone missed APAT registration , fill this form by 1:00pm today. No duplicay Please .  https://docs.google.com/forms/d/e/1FAIpQLScRXIK3rFrmg5ngM_xSMQOm4lyZ9xYCVvhUouHSFjLO12qFpg/viewform
+3/20/23, 13:07 - Anilansh Verma: *Inform ur classmates if you know who missed it!*👆🏻👆🏻
+3/20/23, 15:18 - Dhruv: This message was deleted
+3/20/23, 15:18 - Dhruv: <Media omitted>
+3/21/23, 07:56 - Yash Deo: APAT ka kya scene hai
+3/21/23, 08:42 - Parth Verma: 10 se 1 hai
+isme kbhi v de skte ho
+but exam sirf 60 minutes ka hi h
+3/21/23, 08:42 - Parth Verma: Dear Sir / Ma’am
+
+ 
+
+Greetings !!
+
+Please find attached the data of students who have registered for APAT from 2024 Batch.
+
+ 
+
+Event – APAT
+
+ 
+
+Date – 21st March 2023
+
+ 
+
+Time – 10 AM
+
+ 
+
+Mode – Virtual          
+
+ 
+
+Link of Online Aptitude Test
+
+
+
+
+Amity University
+
+Noida
+
+21st March 2023
+
+10:00am-1:00pm
+
+APAT
+
+2024 Batch
+
+https://www.firstnaukri.com/exam/ncccj4k
+
+PK95L2NKMO
+3/21/23, 09:39 - Prateek: Exam key kidhar milegi
+3/21/23, 10:04 - +91 83838 51924: PK95L2NKMO
+3/21/23, 10:14 - Prateek: Sabka same h?
+3/21/23, 10:18 - +91 83838 51924: Pata nhi bhai
+3/23/23, 14:45 - +91 74549 40509: Sir Major project ka viva lere h class nahi hogi
+3/24/23, 09:20 - Shivansh: <Media omitted>
+3/24/23, 09:48 - shubhradeep 2: Ek baar class me attendance li aur ek baar entry ke time. Iske bad bhi
+3/24/23, 09:48 - Kapil Yadav: Same
+3/24/23, 09:48 - Kamran Khan: Same
+3/24/23, 12:06 - Rehan Khan (CR): Bhai faculty se baat karo
+3/24/23, 12:07 - Muskan ( CR ): Guys
+
+Maine Roshan Lal sir se baat krke unn sbki attendance present lgwai h jinki pdf mein present h
+3/24/23, 12:07 - Muskan ( CR ): So he'll update it
+3/26/23, 16:08 - Rehan Khan (CR): <Media omitted>
+3/26/23, 16:08 - Rehan Khan (CR): All those who applied must have received the consent forms on your mail id from puneet sir
+3/26/23, 16:08 - Rehan Khan (CR): Those who have applied for the industry visit at Yotta D1 . Kindly print the consent form received on mail, get it signed from your parents and submit it on Monday positively
+3/26/23, 16:09 - Rehan Khan (CR): Further instructions are there in the e-mail, kindly go through it
+3/26/23, 16:12 - +91 84489 25136: This message was deleted
+3/26/23, 20:45 - Anilansh Verma: <Media omitted>
+3/26/23, 20:46 - Anilansh Verma: <Media omitted>
+3/26/23, 20:47 - Anilansh Verma: <Media omitted>
+3/26/23, 20:47 - Anilansh Verma: <Media omitted>
+3/26/23, 20:48 - Anilansh Verma: <Media omitted>
+3/26/23, 20:48 - Anilansh Verma: <Media omitted>
+3/26/23, 20:48 - Anilansh Verma: <Media omitted>
+3/26/23, 20:48 - Anilansh Verma: <Media omitted>
+3/26/23, 20:49 - Anilansh Verma: <Media omitted>
+3/26/23, 20:49 - Anilansh Verma: <Media omitted>
+3/26/23, 20:49 - Anilansh Verma: <Media omitted>
+3/26/23, 20:49 - Anilansh Verma: <Media omitted>
+3/27/23, 11:01 - Yash Deo: please join the cc class at 11:15Am today's
+3/27/23, 11:01 - Yash Deo: Ye kab hua
+3/27/23, 12:04 - +91 84489 25136: <Media omitted>
+3/27/23, 12:23 - Yash Deo: Class ho rhi bhi hai se ki?
+3/28/23, 14:11 - Yash Deo: <Media omitted>
+3/28/23, 14:11 - Yash Deo: Literature club mein aaya hai, kisiko jaana to dekhlo 😂
+3/29/23, 02:42 - Your security code with Subham Kulshrestha changed. Tap to learn more.
+3/30/23, 23:44 - Subham Amity: Kal 11am SE ki class hai?
+3/31/23, 04:50 - Rehan Khan (CR): Nops kuch students ki elective ki classes hain so no SE
+3/31/23, 12:14 - Subham Amity: CC ki class konse room me?
+3/31/23, 12:17 - Akash Sawan: 316
+3/31/23, 14:27 - The Robotron: Those who are in Cse-eve-1-y batch and have fbl classes scheduled 2 to 3 
+Drop your names here
+3/31/23, 14:27 - +91 84495 14233: Shourya garg
+3/31/23, 14:27 - The Robotron: This message was deleted
+3/31/23, 14:28 - The Robotron: This message was deleted
+3/31/23, 14:29 - The Robotron: This message was deleted
+3/31/23, 14:30 - +91 97178 75714: Tanmay sharma
+3/31/23, 19:41 - Your security code with Subham Kulshrestha changed. Tap to learn more.
+4/1/23, 11:53 - +91 92623 00838: Hello guys, I have started my own YouTube channel for music. Please support with your likes and comments. Please don't forget to subscribe. Intention is to post some gaming  videos every week. I am sure with your support my efforts will be successful. Check this out 
+
+https://youtu.be/0gA5P3plO44
+4/1/23, 12:12 - Yash Deo: Like, comment, subscribe, tag, follow sab kuch kardiya bro 💪💪
+4/1/23, 12:56 - Anilansh Verma: Guys most probably parmish verma ayega aaj
+4/1/23, 12:56 - Anilansh Verma: Not sure but sunne me aya haircut
+4/1/23, 12:56 - +91 74549 40509: Hn delhi m h vo abhi
+4/1/23, 12:56 - +91 74549 40509: So proly
+4/1/23, 12:56 - +91 74549 40509: Krsna or raftar bhi delhi m h
+4/1/23, 12:57 - Arunya Goojar: Bhai , don't tempt me 🫠
+4/1/23, 12:58 - +91 74549 40509: Not sure parmish verma 2 free shows kr chuka h last 2 weeks m toh vo bhi ho skta h
+4/1/23, 12:59 - Arunya Goojar: <Media omitted>
+4/1/23, 21:06 - Sam Jain: Kon aaya 😂😂
+4/1/23, 21:06 - Sam Jain: Baarish k alawa?
+4/1/23, 21:46 - shubhradeep 2: This message was deleted
+4/3/23, 10:51 - Prateek: Attendance ka link bhej dena
+4/4/23, 08:42 - Sahil Chauhan: Koi campus pohochne wala h kya?
+4/4/23, 10:27 - Sam Jain: Qr bhej Dena attendance ka
+4/4/23, 10:33 - Yash Deo: Haan please
+4/4/23, 20:41 - Parth Verma: Kal ka schedule bhejna koi
+For the internship fair
+4/4/23, 21:41 - Your security code with shubhradeep 2 changed. Tap to learn more.
+4/5/23, 08:32 - Your security code with +91 99536 97085 changed. Tap to learn more.
+4/5/23, 13:51 - Shivansh: https://forms.office.com/Pages/ResponsePage.aspx?id=dqBGjZPQbUGle4aSzeE7-MWaLFsI3oxAoQXZ-AdiRaBUMElPOU40S0RRWUM2UkZZNkwwWDQ3V1UwMi4u&origin=QRCode
+4/5/23, 13:54 - Anilansh Verma: <Media omitted>
+4/5/23, 22:37 - Muskan ( CR ): As said by Deepak Gaur sir, SKE exam will be offline tomorrow 3-4 pm
+4/5/23, 22:46 - Sam Jain: Pdhaya kya h aajtk unhone Jo exam hoga?🥲🥲
+4/5/23, 22:48 - +91 74549 40509: Time: One Hour Maximum Marks: 20
+Each que carries 5 Marks.
+Section A- attempt 2 que out of 3
+Section B- attempt 1 que out of 2
+Section C- 1 que (Compulsory)
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: <Media omitted>
+4/5/23, 22:48 - +91 74549 40509: .
+4/5/23, 22:48 - +91 74549 40509: SKE Common exam will be held for all sections on 6th April
+
+3-4 pm
+4/5/23, 22:48 - +91 74549 40509: Syllabus - mod 2 and 3
+4/5/23, 22:48 - +91 74549 40509: Written test all other subjects ✅
+4/5/23, 22:49 - Sam Jain: Yrr mtlb phle ka sab aana chahiye?🥲
+4/6/23, 00:45 - Sam Jain: @917550771958 @918368854079 yrr Deepak sir se baat krke Aaj 9 bje wali attendance lgwa Dena vrna extra classes schedule krte rahenge ye
+4/6/23, 09:21 - Subham Amity: Aaj bhi formals me aana hai?
+4/6/23, 09:22 - Sam Jain: Haa
+4/6/23, 09:32 - Arunya Goojar: Koi Idea h aj , drive wagera hogi ki nai ?
+4/6/23, 09:32 - Sam Jain: Aaj wali toh online hi hogi  na lekin college aana pdega kyuki ske ka exam bhi j
+4/6/23, 09:33 - Sam Jain: H*
+4/6/23, 12:23 - Prateek: @917550771958  bol do Aaj bhi internship fair h
+4/6/23, 12:28 - Shivansh: The following 15 students are finally selected by Tech Mahindra for offering an Internship.
+
+ 
+
+Gaurav
+Shruti
+Pragya(From batch 3)
+Hardik
+Hitesh
+Mantra Jain
+Manya
+Ipsha
+Aditi
+Ayush Kr Sharan
+Sanskar Jain
+Kritika
+Dhruv(Batch 14)
+Kavya
+Pratyush Aggarwal
+ 
+
+Below are the names of the students whose profiles are on-hold and can join the internship only after approval from Tech Mahindra management:
+
+Muskan
+Anupriya
+Ansh
+Arushi
+Sandhya
+4/6/23, 12:30 - +91 97178 75714: Bhai yaar yeh hardik konse vaaala hai
+4/6/23, 12:30 - +91 97178 75714: Apne batch vala ya koi dusrai batch ka
+4/6/23, 12:47 - Shivansh: Voh behta tha tech mahindra ke interview mein?
+4/6/23, 15:02 - A R Bhardwaj: Room no?
+4/6/23, 15:06 - A R Bhardwaj: You deleted this message
+4/6/23, 15:55 - +91 74549 40509: <Media omitted>
+4/6/23, 17:09 - +91 74549 40509: CRC ASET is happy to announce Internship Opportunities & Commencement of Early Bird Registration for the same.
+
+Early Bird Registration will close by 6:00 p.m today.
+
+More announcements of the internship opportunities to follow.
+
+S.No.
+Company Name
+Domain
+Registration Link
+SPOC
+1
+Open Health System Laboratory (OHSL)
+CSE/IT/ECE/EEE/AI
+https://forms.office.com/r/LePv6U8Bba
+Priyanka Singh (9899957122/psingh4@amity.edu)
+2
+Optimal Virtual Employee 
+CSE/IT/AI
+https://forms.office.com/r/3PgbamfHUK
+3
+Birja Construction LLC
+CSE/IT/Civil
+https://forms.office.com/r/6kQjCjXn2D
+4
+Inxee Systems Private Limited
+CSE/ECE/EEE/ME
+https://forms.office.com/r/1pVeTcv6tb
+5
+Gamma Rotors Pvt. Ltd.
+CSE/ECE/EEE/ME/Mechatronics
+https://forms.office.com/r/GXJx66pejb
+6
+Essentia SoftServ LLP
+CSE/IT/AI
+https://forms.office.com/r/
+7
+Amity Innovation Incubator (AII)
+CSE/IT/ECE/EEE/AI/ME
+https://internship.amityincubator.com/
+8
+AIMIL Ltd.
+ ME/Civil / CSE
+https://forms.office.com/r/Zp4DNQmm3p
+Alok Kumar Tiwari(9871278770/aktiwari1@amity.edu)
+9
+SANDHAR Technologies
+ME/EEE
+https://forms.office.com/r/6FTgNC81TB
+10
+NUBERG ENGINEERING
+ME/Civil/EEE 
+https://forms.office.com/r/qa64eBHy5M
+11
+Ultratech Cement
+Civil
+https://forms.office.com/r/EtYnT4eGf7
+12
+Ramboll Engineering
+M.Tech- Structural and Environmental Engineering
+https://forms.office.com/r/djTG5k6TG4
+13
+Bamrah Construction
+ Civil
+https://forms.office.com/r/j3r1xGXUNx
+14
+CSIR- NPL ( National Physics Laboratory)
+ B.Tech – CSE/IT / AI/ECE  & M.Tech- CSE/IT/AI/Data science / CNIS
+https://forms.office.com/r/VBi3yBXMDW
+15
+Meri Garrage
+CSE
+https://forms.office.com/r/f4YjuqTg34
+16
+Deep Explo
+ ME
+https://forms.office.com/r/PR50xPSucW
+17
+Minda Silca
+ME
+https://forms.office.com/r/PR50xPSucW
+18
+KMicro (Mentored by Microsoft Partner)
+CSE/IT/AI
+https://forms.office.com/r/dFdLJtAKNf
+Anju Khanna( 9910102542/ akhanna@amity.edu)
+      19	Athenian Tech Ltd.	CSE/IT/AI	https://forms.office.com/r/9aPMtGGAbC
+20
+ULAVI Technologies 
+CSE/AI/IT
+https://forms.office.com/r/0v2rXFsqdh
+21
+Cognitensor
+CSE/IT/AI 
+https://forms.office.com/r/UELtqA2NFK
+ 
+
+
+Reply
+
+      
+
+Forward
+4/6/23, 17:09 - +91 74549 40509: 6	Essentia SoftServ LLP	CSE/IT/AI	https://forms.office.com/r/c5XiqA50W4
+4/9/23, 16:27 - Your security code with Shivansh changed. Tap to learn more.
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 13:32 - Daniyal Deen: <Media omitted>
+4/10/23, 15:17 - Shivansh: Agar sir class mein aa jae toh ek baar text kar dena
+4/10/23, 15:43 - Arunya Goojar: Aja 😂
+4/11/23, 11:54 - +91 74549 40509: Enjoi
+4/11/23, 11:54 - +91 74549 40509: <Media omitted>
+4/11/23, 11:54 - +91 74549 40509: <Media omitted>
+4/11/23, 11:54 - +91 74549 40509: <Media omitted>
+4/11/23, 11:54 - +91 74549 40509: PE Amigo
+4/11/23, 11:55 - +91 74549 40509: <Media omitted>
+4/11/23, 11:55 - +91 74549 40509: <Media omitted>
+4/11/23, 17:17 - Arunya Goojar: If you caught without I’d card around your neck then you have to pay 100 rupees fine. Please wear your I’d card otherwise I can’t help in fine.
+4/11/23, 17:18 - Arunya Goojar: <Media omitted>
+4/11/23, 17:18 - Sam Jain: <Media omitted>
+4/11/23, 17:26 - Priyansh Chauhan: sirf students ke liye hai ,ya teachers ke liye bhi?
+4/11/23, 17:32 - Yash Deo: Lmao kitne logo ko fine charge karenge
+4/11/23, 17:33 - Arunya Goojar: They're gonna raise a lot of money 🤑💰.
+4/11/23, 17:33 - +91 74549 40509: Beekh mangne ki naye naye treeke
+4/11/23, 17:34 - +91 84489 25136: <Media omitted>
+4/11/23, 17:34 - Ishan Vijay: This message was deleted
+4/11/23, 17:34 - Arunya Goojar: AMITY IS A NON PROFIT ORG. 💀💀
+4/11/23, 17:44 - Sam Jain: Bhai Paisa apne paas thdi rkhenge humare face recognition system strong krne m hi toh lgaenge
+4/11/23, 17:44 - Sam Jain: Humare pese leke humari hi maarenge😎
+4/11/23, 17:44 - Sam Jain: Salute🫡🫡
+4/11/23, 21:47 - +91 74549 40509: French amigo k answers. H kisi k pass?
